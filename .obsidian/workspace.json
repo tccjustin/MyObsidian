@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDK_동작_시나리오_요약.md",
+                "file": "chatgpt/2025-11-12-레시피_찾기_방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDK_동작_시나리오_요약"
+              "title": "2025-11-12-레시피_찾기_방법"
             }
           }
         ]
@@ -169,11 +169,25 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "a5897cfe21b7b58f",
+  "active": "05b1ba7056280c00",
   "lastOpenFiles": [
-    "2025-11-12-IPSec_테스트_설정.md",
-    "2025-11-12-VSCode_폴더_숨기기.md",
+    "chatgpt/2025-11-12-@chatgpt_폴더_가이드_요약.md",
+    "2025-11-12-문제_분석_및_해결.md",
+    "확인되지 않음 934852.crdownload",
+    "2025-11-12-Gemini_Code_Assist_오류.md",
+    "확인되지 않음 62504.crdownload",
+    "chatgpt/2025-11-05-빠른_다운로드_방법.md",
+    "chatgpt/2025-11-12-Gemini_Code_Assist_오류_해결.md",
+    "확인되지 않음 849228.crdownload",
+    "chatgpt/2025-11-12-레시피_찾기_방법.md",
+    "확인되지 않음 556895.crdownload",
+    "chatgpt/2025-11-12-VSCode_폴더_숨기기 (1).md",
+    "확인되지 않음 91987.crdownload",
+    "chatgpt/2025-10-29-Conditional_npm_install (1).md",
+    "chatgpt/2025-10-29-Conditional_npm_install.md",
+    "chatgpt/2025-11-12-VSCode_폴더_숨기기.md",
     "SDK_동작_시나리오_요약.md",
+    "chatgpt/2025-11-12-IPSec_테스트_설정.md",
     "Obsidian-with-AI/환영합니다!.md",
     "MyObsidian/환영합니다!.md"
   ]
