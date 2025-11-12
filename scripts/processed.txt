@@ -1,0 +1,502 @@
+
+Would remove:  bash50-006
+Would remove:  git2_github.com.qt.qtwebchannel.git.tar.gz
+Would remove:  autoconf-archive-2019.01.06.tar.xz
+Would remove:  taglib-1.12.tar.gz
+Keeping:  readline52-004
+Would remove:  bash50-010
+Would remove:  libX11-1.7.3.1.tar.xz
+Would remove:  libinput-1.15.2.tar.xz
+Would remove:  git2_github.com.qt.qtquickcontrols.git.tar.gz
+Would remove:  openssl-3.1.2.tar.gz
+Would remove:  bash50-008
+Keeping:  intltool-0.51.0.tar.gz
+Would remove:  git2_github.com.qt.qtgraphicaleffects.git.tar.gz
+Would remove:  gdk-pixbuf-2.42.6.tar.xz
+Keeping:  yaml-0.2.5.tar.gz
+Would remove:  gst-plugins-bad-1.16.2.tar.xz
+Would remove:  findutils-4.9.0.tar.xz
+Keeping:  readline52-014
+Would remove:  rust-std-1.58.0-x86_64-unknown-linux-gnu.tar.xz
+Would remove:  git2_github.com.rpm-software-management.librepo.git.tar.gz
+Keeping:  libunistring-1.0.tar.gz
+Would remove:  util-macros-1.19.3.tar.gz
+Would remove:  mesa-22.0.3.tar.xz
+Would remove:  git2_github.com.qt.qtwebsockets.git.tar.gz
+Keeping:  MarkupSafe-2.1.1.tar.gz
+Keeping:  libcap-2.66.tar.xz
+Would remove:  glib-networking-2.72.2.tar.xz
+Would remove:  git2_github.com.lathiat.nss-mdns.tar.gz
+Would remove:  libpciaccess-0.16.tar.bz2
+Would remove:  xcb-proto-1.14.1.tar.xz
+Would remove:  git2_git.kernel.org.pub.scm.utils.kernel.kmod.kmod.git.tar.gz
+Would remove:  glib-2.72.2.tar.xz
+Would remove:  alsa-plugins-1.2.6.tar.bz2
+Keeping:  docbook-xml_4.5.orig.tar.gz
+Keeping:  libgcrypt-1.9.4.tar.bz2
+Would remove:  bash50-013
+Would remove:  git2_github.com.GENIVI.AudioManagerPlugins.git.tar.gz
+Keeping:  m4-1.4.19.tar.gz
+Keeping:  findutils-4.2.31.tar.gz
+Would remove:  gst-plugins-base-1.20.3.tar.xz
+Would remove:  bash50-017
+Keeping:  busybox-1.35.0.tar.bz2
+Would remove:  git2_github.com.navit-gps.navit.tar.gz
+Would remove:  libpng-1.6.37.tar.xz
+Keeping:  libxml2-2.9.14.tar.xz
+Would remove:  git2_github.com.thkukuk.libnss_nis.tar.gz
+Would remove:  diffutils-3.9.tar.xz
+Would remove:  tzcode2022a.tar.gz
+Keeping:  iniparse-0.5.tar.gz
+Keeping:  perl-cross-1.3.7.tar.gz
+Would remove:  sudo-1.9.10.tar.gz
+Would remove:  extras-1.0.0.tar.gz
+Would remove:  attr-2.4.48.tar.gz
+Would remove:  gstreamer-1.20.3.tar.xz
+Keeping:  bc-1.07.1.tar.gz
+Keeping:  readline52-011
+Keeping:  bc-1.06.tar.gz
+Would remove:  gcc-arm-src-snapshot-9.2-2019.12.tar.xz
+Would remove:  git2_github.com.plougher.squashfs-tools.git.tar.gz
+Keeping:  autoconf-2.71.tar.gz
+Would remove:  xtrans-1.4.0.tar.bz2
+Would remove:  git2_github.com.rpm-software-management.libdnf.tar.gz
+Would remove:  git2_github.com.GENIVI.persistence-administrator.git.tar.gz
+Would remove:  git2_github.com.rpm-software-management.libcomps.git.tar.gz
+Keeping:  re2c-3.0.tar.xz
+Would remove:  libdrm-2.4.110.tar.xz
+Keeping:  util-linux-2.37.4.tar.xz
+Would remove:  autoconf-2.69.tar.gz
+Would remove:  dbus-1.14.4.tar.xz
+Would remove:  gitshallow_sourceware.org.git.glibc.git_2496242-1_release.2.35.master.tar.gz
+Keeping:  shadow-4.11.1.tar.gz
+Would remove:  git2_github.com.GENIVI.node-state-manager.git.tar.gz
+Would remove:  pango-1.50.4.tar.xz
+Would remove:  libtheora-1.1.1.tar.bz2
+Keeping:  readline52-007
+Keeping:  readline52-006
+Would remove:  git2_github.com.qt.qtwebkit.git.tar.gz
+Would remove:  libsoup-2.74.2.tar.xz
+Would remove:  libjpeg-turbo-2.1.5.1.tar.gz
+Would remove:  libgudev-237.tar.xz
+Keeping:  ed-1.18.tar.lz
+Would remove:  bash50-011
+Keeping:  dbus-1.14.8.tar.xz
+Would remove:  pulseaudio-15.0.tar.xz
+Keeping:  libmnl-1.0.4.tar.bz2
+Would remove:  speex-1.2.0.tar.gz
+Would remove:  boost_1_78_0.tar.bz2
+Would remove:  git2_github.com.file.file.git.tar.gz
+Would remove:  gst-omx-1.20.5.tar.xz
+Keeping:  readline52-008
+Would remove:  perl-cross-1.5.2.tar.gz
+Keeping:  libgpg-error-1.44.tar.bz2
+Keeping:  time-1.7.tar.gz
+Would remove:  git2_github.com.openSUSE.libsolv.git.tar.gz
+Would remove:  eudev-3.2.10.tar.gz
+Would remove:  bash50-004
+Would remove:  sudo-1.9.12p1.tar.gz
+Would remove:  gst-plugins-good-1.16.2.tar.xz
+Keeping:  check-0.15.2.tar.gz
+Would remove:  LICENSE-python3-scons-3.1.2
+Would remove:  libmicrohttpd-0.9.75.tar.gz
+Would remove:  git2_github.com.cracklib.cracklib.tar.gz
+Would remove:  git2_github.com.qt.qtenginio.git.tar.gz
+Keeping:  libarchive-3.6.2.tar.gz
+Would remove:  cargo-1.58.0-x86_64-unknown-linux-gnu.tar.xz
+Would remove:  Mako-1.1.1.tar.gz
+Would remove:  libffi-3.4.2.tar.gz
+Keeping:  opkg-0.5.0.tar.gz
+Would remove:  git2_android.googlesource.com.platform.system.extras.tar.gz
+Would remove:  pbr-5.8.1.tar.gz
+Would remove:  rsync-3.2.3.tar.gz
+Would remove:  NanumFont_TTF_ALL.zip
+Would remove:  Python-3.8.11.tar.xz
+Would remove:  libvorbis-1.3.7.tar.xz
+Would remove:  alsa-lib-1.2.1.2.tar.bz2
+Would remove:  librsvg-2.52.7.tar.xz
+Keeping:  rsync-2.6.9.tar.gz
+Would remove:  git2_github.com.systemd.systemd-bootchart.git.tar.gz
+Keeping:  cmake-3.22.3.tar.gz
+Would remove:  tzdata2023c.tar.gz
+Would remove:  bash50-016
+Would remove:  avahi-0.8.tar.gz
+Would remove:  libmicrohttpd-0.9.76.tar.gz
+Would remove:  Linux-PAM-1.5.2.tar.xz
+Keeping:  which-2.18.tar.gz
+Would remove:  libxshmfence-1.3.tar.bz2
+Keeping:  readline52-009
+Would remove:  orc-0.4.40.tar.xz
+Would remove:  git2_salsa.debian.org.iso-codes-team.iso-codes.git.tar.gz
+Would remove:  libsamplerate-0.2.2.tar.xz
+Would remove:  git2_github.com.qt.qtxmlpatterns.git.tar.gz
+Would remove:  sbc-1.5.tar.xz
+Would remove:  PyYAML-6.0.tar.gz
+Would remove:  jinja2-3.1.4.tar.gz
+Would remove:  git2_sourceware.org.git.glibc.git.tar.gz
+Would remove:  gst-plugins-bad-1.20.3.tar.xz
+Keeping:  mpc-1.2.1.tar.gz
+Would remove:  libinput-1.19.4.tar.xz
+Would remove:  alsa-topology-conf-1.2.5.1.tar.bz2
+Would remove:  pip-22.0.3.tar.gz
+Keeping:  m4-1.4.9.tar.gz
+Would remove:  git2_salsa.debian.org.debian.init-system-helpers.git.tar.gz
+Would remove:  gst-omx-1.20.7.tar.xz
+Would remove:  git2_gitlab.com.procps-ng.procps.git.tar.gz
+Keeping:  openssh-8.9p1.tar.gz
+Would remove:  bash50-002
+Would remove:  tzcode2023c.tar.gz
+Would remove:  Python-3.8.2.tar.xz
+Would remove:  gitshallow_sourceware.org.git.binutils-gdb.git_134f17e-1_binutils-2_38-branch.tar.gz
+Would remove:  git2_github.com.GENIVI.capicxx-dbus-runtime.git.tar.gz
+Keeping:  meson-0.61.3.tar.gz
+Keeping:  nettle-3.7.3.tar.gz
+Keeping:  readline52-001
+Keeping:  libffi-3.4.4.tar.gz
+Keeping:  cpio-2.8.tar.gz
+Would remove:  git2_github.com.unfs3.unfs3.git.tar.gz
+Keeping:  autoconf-archive-2022.02.11.tar.xz
+Would remove:  git2_salsa.debian.org.debian.debianutils.git.tar.gz
+Keeping:  readline52-003
+Would remove:  mesa-20.0.2.tar.xz
+Would remove:  Python-3.10.9.tar.xz
+Keeping:  XML-Parser-2.46.tar.gz
+Would remove:  git2_github.com.GENIVI.persistence-common-object.git.tar.gz
+Would remove:  Python-3.8.13.tar.xz
+Would remove:  libpng-1.6.39.tar.xz
+Would remove:  dbus-1.14.0.tar.xz
+Keeping:  bzip2-1.0.8.tar.gz
+Would remove:  bash50-012
+Would remove:  gst-plugins-bad-1.20.5.tar.xz
+Would remove:  git2_github.com.mstorsjo.fdk-aac.git.tar.gz
+Would remove:  gitshallow_sourceware.org.git.glibc.git_d2febe7-1_release.2.35.master.tar.gz
+Keeping:  bash-3.2.57.tar.gz
+Keeping:  tar-1.17.tar.bz2
+Keeping:  gmp-6.2.1.tar.bz2
+Would remove:  wget-1.21.4.tar.gz
+Would remove:  wayland-protocols-1.25.tar.xz
+Would remove:  libatomic_ops-7.6.12.tar.gz
+Would remove:  git2_github.com.kraj.localedef.tar.gz
+Would remove:  alsa-utils-1.2.6.tar.bz2
+Would remove:  perl-5.34.3.tar.gz
+Would remove:  glib-networking-2.72.0.tar.xz
+Keeping:  installer-0.5.1.tar.gz
+Would remove:  linux-5.4.tar.xz
+Keeping:  readline52-013
+Would remove:  bash50-005
+Keeping:  libcap-ng-0.8.2.tar.gz
+Would remove:  automake-1.16.1.tar.gz
+Would remove:  wayland-protocols-1.20.tar.xz
+Would remove:  alsa-ucm-conf-1.2.6.3.tar.bz2
+Keeping:  gperf-3.1.tar.gz
+Keeping:  pigz-2.7.tar.gz
+Would remove:  gst-omx-1.20.6.tar.xz
+Would remove:  git2_github.com.facebook.zstd.git.tar.gz
+Keeping:  gdbm-1.23.tar.gz
+Would remove:  libarchive-3.6.1.tar.gz
+Would remove:  git2_github.com.slimm609.checksec.sh.git.tar.gz
+Keeping:  iptables-1.8.7.tar.bz2
+Would remove:  gitdb-4.0.9.tar.gz
+Would remove:  git2_android.googlesource.com.platform.build.tar.gz
+Would remove:  xz-5.2.5.tar.gz
+Would remove:  python-subunit-1.4.0.tar.gz
+Would remove:  tiff-4.3.0.tar.gz
+Would remove:  git2_github.com.ago.pps-tools.git.tar.gz
+Would remove:  git2_github.com.qt.qtsystems.git.tar.gz
+Would remove:  git2_github.com.NixOS.patchelf.tar.gz
+Keeping:  cwautomacros-20110201.tar.bz2
+Keeping:  unzip60.tar.gz
+Would remove:  libjpeg-turbo-2.1.4.tar.gz
+Keeping:  readline52-002
+Would remove:  bash-5.1.16.tar.gz
+Would remove:  icu4c-70_1-data.zip
+Would remove:  Python-3.10.16.tar.xz
+Would remove:  gitshallow_sourceware.org.git.binutils-gdb.git_dc2474e-1_binutils-2_38-branch.tar.gz
+Would remove:  wayland-1.18.0.tar.xz
+Would remove:  tar-1.35.tar.bz2
+Keeping:  base-passwd_3.5.29.tar.gz
+Would remove:  bash50-001
+Would remove:  alsa-utils-1.2.1.tar.bz2
+Would remove:  git2_gitlab.freedesktop.org.xdg.shared-mime-info.git.tar.gz
+Would remove:  xorgproto-2021.5.tar.bz2
+Would remove:  tzcode2025b.tar.gz
+Would remove:  git2_github.com.qt.qt3d.git.tar.gz
+Would remove:  git2_github.com.qt.qtserialport.git.tar.gz
+Keeping:  ethtool-5.16.tar.gz
+Would remove:  xmlts20080827.tar.gz
+Would remove:  avahi-0.7.tar.gz
+Would remove:  libcap-2.63.tar.xz
+Keeping:  flex-2.6.4.tar.gz
+Would remove:  used_urls.txt
+Would remove:  ruby-3.1.3.tar.gz
+Keeping:  quilt-0.67.tar.gz
+Would remove:  libatomic_ops-7.6.14.tar.gz
+Keeping:  gobject-introspection-1.72.0.tar.xz
+Would remove:  alsa-plugins-1.2.1.tar.bz2
+Would remove:  mpg123-1.29.3.tar.bz2
+Keeping:  qemu-6.2.0.tar.xz
+Keeping:  sqlite-autoconf-3380500.tar.gz
+Would remove:  git2_github.com.qt.qtdeclarative.git.tar.gz
+Would remove:  boost_1_72_0.tar.bz2
+Would remove:  git2_github.com.qt.qtbase.git.tar.gz
+Keeping:  kbd-2.4.0.tar.xz
+Keeping:  logrotate-3.20.1.tar.xz
+Would remove:  Linux-PAM-1.3.1.tar.xz
+Keeping:  Jinja2-3.1.1.tar.gz
+Would remove:  glib-networking-2.72.1.tar.xz
+Would remove:  git2_github.com.boostorg.build.tar.gz
+Would remove:  libbsd-0.11.5.tar.xz
+Keeping:  zlib-1.2.11.tar.xz
+Keeping:  gdb-11.2.tar.xz
+Would remove:  libsndfile-1.0.31.tar.bz2
+Would remove:  vala-0.56.3.tar.xz
+Would remove:  libXxf86vm-1.1.4.tar.bz2
+Keeping:  gpgme-1.17.1.tar.bz2
+Would remove:  texinfo-6.8.tar.gz
+Would remove:  Cython-0.29.28.tar.gz
+Would remove:  gstreamer-1.16.2.tar.xz
+Would remove:  help2man-1.49.1.tar.xz
+Would remove:  xrandr-1.5.1.tar.xz
+Would remove:  libmd-1.0.4.tar.xz
+Would remove:  acl-2.2.53.tar.gz
+Would remove:  tzcode2024a.tar.gz
+Would remove:  git2_git.savannah.gnu.org.git.config.git.tar.gz
+Keeping:  six-1.16.0.tar.gz
+Would remove:  bash-completion-2.10.tar.xz
+Would remove:  libwebp-1.2.2.tar.gz
+Keeping:  expat-2.5.0.tar.bz2
+Keeping:  attr-2.5.1.tar.gz
+Would remove:  libcroco-0.6.13.tar.xz
+Would remove:  gst-omx-1.20.3.tar.xz
+Would remove:  GConf-3.2.6.tar.xz
+Would remove:  git2_github.com.vim.vim.git.tar.gz
+Keeping:  itstool-2.0.7.tar.bz2
+Keeping:  readline52-010
+Keeping:  gettext-0.21.tar.gz
+Keeping:  libidn2-2.3.2.tar.gz
+Would remove:  libXdamage-1.1.5.tar.bz2
+Keeping:  pcre-8.45.tar.bz2
+Would remove:  Python-3.10.12.tar.xz
+Would remove:  SDL2-2.0.20.tar.gz
+Would remove:  fribidi-1.0.13.tar.xz
+Would remove:  gst-plugins-bad-1.20.6.tar.xz
+Would remove:  libssh2-1.10.0.tar.gz
+Would remove:  vala-0.56.2.tar.xz
+Would remove:  gst-plugins-base-1.20.5.tar.xz
+Would remove:  gst-plugins-good-1.20.5.tar.xz
+Would remove:  gettext-0.16.1.tar.gz
+Would remove:  cpio-2.14.tar.gz
+Keeping:  openssl-3.0.12.tar.gz
+Would remove:  git2_git.yoctoproject.org.pseudo.tar.gz
+Keeping:  wheel-0.37.1.tar.gz
+Keeping:  perl-5.34.1.tar.gz
+Would remove:  git2_github.com.qt.qtscript.git.tar.gz
+Would remove:  bison-3.5.3.tar.xz
+Would remove:  gstreamer-1.20.7.tar.xz
+Would remove:  libproxy-0.4.17.tar.xz
+Would remove:  freetype-2.11.1.tar.xz
+Would remove:  libxkbcommon-1.4.1.tar.xz
+Would remove:  gdk-pixbuf-2.42.10.tar.xz
+Would remove:  gitshallow_sourceware.org.git.binutils-gdb.git_ea5fe5d-1_binutils-2_38-branch.tar.gz
+Would remove:  git2_android.googlesource.com.platform.external.libselinux.tar.gz
+Would remove:  libevdev-1.12.1.tar.xz
+Keeping:  glib-2.72.3.tar.xz
+Would remove:  wayland-1.20.0.tar.xz
+Would remove:  git2_github.com.qt.qtlocation.git.tar.gz
+Would remove:  libassuan-2.5.5.tar.bz2
+Would remove:  pixman-0.40.0.tar.gz
+Would remove:  bash50-014
+Would remove:  gst-plugins-base-1.20.6.tar.xz
+Would remove:  orc-0.4.32.tar.xz
+Would remove:  alsa-lib-1.2.6.1.tar.bz2
+Would remove:  librsvg-2.52.10.tar.xz
+Would remove:  rsync-3.2.7.tar.gz
+Would remove:  libdaemon-0.14.tar.gz
+Would remove:  GitPython-3.1.37.tar.gz
+Would remove:  gitshallow_sourceware.org.git.binutils-gdb.git_5c0b4ee-1_binutils-2_38-branch.tar.gz
+Keeping:  json-c-0.15.tar.gz
+Would remove:  git2_github.com.projectNe10.Ne10.git.tar.gz
+Would remove:  libusb-1.0.26.tar.bz2
+Keeping:  desktop-file-utils-0.26.tar.xz
+Would remove:  git2_github.com.GENIVI.dlt-daemon.git.tar.gz
+Would remove:  git2_salsa.debian.org.debian.ncurses.git.tar.gz
+Would remove:  libjpeg-turbo-2.1.3.tar.gz
+Would remove:  async-0.6.2.tar.gz
+Would remove:  mpfr-4.1.0.tar.xz
+Would remove:  git2_github.com.qt.qtquick1.git.tar.gz
+Would remove:  neon27_0.30.2.orig.tar.gz
+Keeping:  grep-2.5.1a.tar.bz2
+Would remove:  git2_github.com.ninja-build.ninja.git.tar.gz
+Keeping:  Python-3.10.13.tar.xz
+Keeping:  xmlto-0.0.28.tar.gz
+Would remove:  gst-omx-1.16.2.tar.xz
+Would remove:  bash50-018
+Keeping:  used_files.txt
+Keeping:  elfutils-0.186.tar.bz2
+Would remove:  bash-5.0.tar.gz
+Keeping:  patch-2.7.6.tar.gz
+Keeping:  linux-5.10.tar.xz
+Would remove:  git2_github.com.protocolbuffers.protobuf.git.tar.gz
+Keeping:  popt-1.18.tar.gz
+Would remove:  git2_github.com.bb-qq.r8152.git.tar.gz
+Would remove:  gst-plugins-good-1.20.3.tar.xz
+Would remove:  gpsd-3.23.1.tar.gz
+Keeping:  gnutls-3.7.4.tar.xz
+Keeping:  libxslt-1.1.35.tar.xz
+Keeping:  git-2.35.7.tar.gz
+Keeping:  lzo-2.10.tar.gz
+Would remove:  gst-plugins-bad-1.20.7.tar.xz
+Would remove:  git2_github.com.qt.qtimageformats.git.tar.gz
+Would remove:  openssl-3.0.5.tar.gz
+Keeping:  xz-5.2.6.tar.gz
+Would remove:  opus-1.3.1.tar.gz
+Would remove:  git2_github.com.qt.qtmultimedia.git.tar.gz
+Would remove:  sudo-1.9.13p3.tar.gz
+Would remove:  tzdata2022a.tar.gz
+Keeping:  acl-2.3.1.tar.gz
+Would remove:  git2_git.kernel.org.pub.scm.utils.dtc.dtc.git.tar.gz
+Would remove:  chrpath_0.16.orig.tar.gz
+Would remove:  git2_github.com.GENIVI.capicxx-core-runtime.git.tar.gz
+Would remove:  expat-2.4.7.tar.bz2
+Would remove:  git2_github.com.qt.qttranslations.git.tar.gz
+Would remove:  gitshallow_sourceware.org.git.binutils-gdb.git_4d71e17-1_binutils-2_38-branch.tar.gz
+Would remove:  alsa-topology-conf-1.2.1.tar.bz2
+Keeping:  pcre2-10.40.tar.bz2
+Would remove:  libXext-1.3.4.tar.bz2
+Keeping:  mpfr-4.1.1.tar.xz
+Keeping:  libtirpc-1.3.2.tar.bz2
+Would remove:  bash50-003
+Would remove:  libX11-1.6.8.tar.bz2
+Keeping:  unifdef-2.12.tar.xz
+Would remove:  git2_github.com.thkukuk.rpcsvc-proto.tar.gz
+Keeping:  setuptools-59.5.0.tar.gz
+Keeping:  bash-completion-2.11.tar.xz
+Would remove:  libogg-1.3.5.tar.xz
+Would remove:  git2_android.googlesource.com.platform.system.core.tar.gz
+Would remove:  bison-3.5.4.tar.xz
+Would remove:  harfbuzz-4.0.1.tar.xz
+Would remove:  base-passwd_3.5.52.tar.xz
+Keeping:  dosfstools-2.11.src.tar.gz
+Would remove:  libpthread-stubs-0.4.tar.bz2
+Would remove:  Mako-1.1.6.tar.gz
+Would remove:  Python-3.10.4.tar.xz
+Would remove:  tzdata2024a.tar.gz
+Would remove:  gitshallow_sourceware.org.git.glibc.git_0e5b239-1_release.2.35.master.tar.gz
+Keeping:  cpio-2.13.tar.gz
+Would remove:  openssl-3.0.7.tar.gz
+Would remove:  SDL2-2.0.12.tar.gz
+Keeping:  make-4.3.tar.gz
+Keeping:  docbook-xsl-1.79.1.tar.bz2
+Keeping:  xmlts20080827.tar
+Would remove:  sudo-1.9.12p2.tar.gz
+Would remove:  gst-plugins-good-1.20.6.tar.xz
+Would remove:  flac-1.3.4.tar.xz
+Would remove:  libdrm-2.4.100.tar.bz2
+Would remove:  git2_github.com.rpm-software-management.rpm.tar.gz
+Would remove:  cairo-1.16.0.tar.xz
+Would remove:  opkg-utils-0.5.0.tar.gz
+Keeping:  libassuan-2.5.6.tar.bz2
+Keeping:  readline-8.1.2.tar.gz
+Would remove:  weston-10.0.2.tar.xz
+Keeping:  gawk-3.1.5.tar.gz
+Keeping:  readline52-005
+Would remove:  libXfixes-6.0.0.tar.bz2
+Keeping:  pseudo-prebuilt-2.33.tar.xz
+Would remove:  bison-2.3.tar.gz
+Would remove:  bash50-015
+Keeping:  lzip-1.23.tar.gz
+Would remove:  fribidi-1.0.12.tar.xz
+Would remove:  git2_git.code.sf.net.p.dos2unix.dos2unix.tar.gz
+Would remove:  SCons-4.3.0.tar.gz
+Keeping:  sudo-1.9.15p2.tar.gz
+Would remove:  gstreamer-1.20.5.tar.xz
+Keeping:  lua-5.4.4.tar.gz
+Would remove:  libXrender-0.9.10.tar.bz2
+Would remove:  git2_github.com.qt.qtwayland.git.tar.gz
+Keeping:  swig-4.0.2.tar.gz
+Keeping:  automake-1.16.5.tar.gz
+Keeping:  readline-5.2.tar.gz
+Would remove:  git2_github.com.thkukuk.libnsl.tar.gz
+Would remove:  bash50-009
+Would remove:  git2_git.code.sf.net.p.net-tools.code.tar.gz
+Would remove:  mtdev-1.1.6.tar.bz2
+Would remove:  git2_github.com.systemd.systemd-stable.git.tar.gz
+Would remove:  git2_github.com.rpm-software-management.dnf.git.tar.gz
+Would remove:  git2_gitlab.com.psmisc.psmisc.git.tar.gz
+Would remove:  coreutils-9.0.tar.xz
+Would remove:  rustc-1.58.0-x86_64-unknown-linux-gnu.tar.xz
+Would remove:  git2_github.com.qt.qttools.git.tar.gz
+Would remove:  makedepend-1.0.6.tar.gz
+Keeping:  bison-3.8.2.tar.xz
+Would remove:  icu4c-70_1-src.tgz
+Would remove:  gst-plugins-good-1.20.7.tar.xz
+Would remove:  git2_github.com.GENIVI.persistence-client-library.git.tar.gz
+Would remove:  gitshallow_sourceware.org.git.glibc.git_293211b-1_release.2.35.master.tar.gz
+Would remove:  openssl-3.0.3.tar.gz
+Would remove:  git2_github.com.qt.qtsensors.git.tar.gz
+Would remove:  git2_github.com.lz4.lz4.git.tar.gz
+Would remove:  tzcode2022g.tar.gz
+Would remove:  git2_git.yoctoproject.org.update-rc.d.tar.gz
+Would remove:  libwebp-1.2.4.tar.gz
+Would remove:  openssl-3.0.13.tar.gz
+Would remove:  git2_android.googlesource.com.platform.hardware.libhardware.tar.gz
+Would remove:  gstreamer-1.20.6.tar.xz
+Keeping:  coreutils-6.9.tar.bz2
+Keeping:  iproute2-5.17.0.tar.xz
+Would remove:  gitshallow_sourceware.org.git.glibc.git_c84018a-1_release.2.35.master.tar.gz
+Keeping:  curl-7.82.0.tar.xz
+Would remove:  a52dec-0.7.4.tar.gz
+Would remove:  gst-plugins-base-1.20.7.tar.xz
+Would remove:  speexdsp-1.2.0.tar.gz
+Keeping:  gdbm-1.8.3.tar.gz
+Would remove:  git2_sourceware.org.git.bzip2-tests.git.tar.gz
+Keeping:  sed-4.1.2.tar.gz
+Would remove:  libxcb-1.14.tar.xz
+Would remove:  gcc-arm-src-snapshot-11.2-2022.02.tar.xz
+Would remove:  gitshallow_sourceware.org.git.glibc.git_cbceb90-1_release.2.35.master.tar.gz
+Would remove:  mtools-4.0.38.tar.bz2
+Would remove:  git2_github.com.qt.qtsvg.git.tar.gz
+Would remove:  git2_github.com.fedora-modularity.libmodulemd.tar.gz
+Would remove:  alsa-ucm-conf-1.2.1.2.tar.bz2
+Would remove:  gst-plugins-base-1.16.2.tar.xz
+Would remove:  tzdata2025b.tar.gz
+Would remove:  dbus-glib-0.112.tar.gz
+Would remove:  git2_git.yoctoproject.org.opkg-utils.tar.gz
+Keeping:  gtk-doc-1.33.2.tar.xz
+Keeping:  rsync-3.2.5.tar.gz
+Would remove:  vala-0.56.0.tar.xz
+Keeping:  libtool-2.4.7.tar.gz
+Would remove:  fontconfig-2.13.1.tar.gz
+Would remove:  testtools-2.5.0.tar.gz
+Would remove:  sysvinit-3.01.tar.xz
+Would remove:  Jinja2-3.1.3.tar.gz
+Would remove:  git2_github.com.qt.qtconnectivity.git.tar.gz
+Would remove:  lame-3.100.tar.gz
+Would remove:  openssl-3.0.16.tar.gz
+Would remove:  xkeyboard-config-2.35.1.tar.xz
+Would remove:  libXdmcp-1.1.3.tar.bz2
+Would remove:  tzdata2022g.tar.gz
+Keeping:  netbase_6.3.tar.xz
+Would remove:  libpsl-0.21.1.tar.gz
+Would remove:  git2_gitlab.freedesktop.org.pkg-config.pkg-config.git.tar.gz
+Would remove:  git2_github.com.rpm-software-management.createrepo_c.tar.gz
+Would remove:  rustc-1.59.0-src.tar.xz
+Would remove:  git2_git.kernel.org.pub.scm.fs.ext2.e2fsprogs.git.tar.gz
+Would remove:  liberation-fonts-ttf-2.1.5.tar.gz
+Would remove:  libXau-1.0.9.tar.bz2
+Keeping:  readline52-012
+Keeping:  mingetty-1.08.tar.gz
+Would remove:  git2_git.yoctoproject.org.yocto-kernel-tools.git.tar.gz
+Keeping:  flit-3.7.1.tar.gz
+Would remove:  libjpeg-turbo-2.1.5.tar.gz
+Would remove:  smmap-5.0.0.tar.gz
+Would remove:  weston-8.0.0.tar.xz
+Would remove:  git2_github.com.GENIVI.AudioManager.git.tar.gz
+Would remove:  git2_salsa.debian.org.debian.ca-certificates.git.tar.gz
+Would remove:  libXrandr-1.5.2.tar.bz2
+Would remove:  bash50-007
+Would remove:  uninative/1c35f09a75c4096749bbe1e009df4e3968cde151424062cf4aa3ed89db22b030/x86_64-nativesdk-libc-4.3.tar.xz
+Would remove:  uninative/1c35f09a75c4096749bbe1e009df4e3968cde151424062cf4aa3ed89db22b030/x86_64-nativesdk-libc-4.3.tar.xz.done
+Would remove:  uninative/9bfc4c970495b3716b2f9e52c4df9f968c02463a9a95000f6657fbc3fde1f098/x86_64-nativesdk-libc-3.6.tar.xz.done
+Would remove:  uninative/9bfc4c970495b3716b2f9e52c4df9f968c02463a9a95000f6657fbc3fde1f098/x86_64-nativesdk-libc-3.6.tar.xz
+Done. Files removed (or planned): 362. Kept/skipped: 138. Errors: 0.
