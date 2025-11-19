@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google gemini cli 설치.md",
-                "mode": "source",
+                "file": "chatgpt/2025-11-19-Yocto_빌드_시간_확인.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "google gemini cli 설치"
+              "title": "2025-11-19-Yocto_빌드_시간_확인"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "a5897cfe21b7b58f",
   "lastOpenFiles": [
+    "google gemini cli 설치.md",
     "chatgpt/2025-11-19-Yocto_빌드_시간_확인.md",
     "chatgpt/확인되지 않음 878812.crdownload",
     "TTL 지원용 롬파일 만들기...md",
-    "google gemini cli 설치.md",
     "Hyper-V를 이용한 TPA 4 포트 테스트 방안...md",
     "SDK_동작_시나리오_요약.md",
     "리눅스 부팅용 디스크 만들기.md",
