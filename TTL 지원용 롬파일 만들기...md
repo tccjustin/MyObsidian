@@ -9,4 +9,4 @@ repo sync
 이렇게 ..
 ```
 repo forall -c 'git checkout -B release/1.0.0-pre origin/release/1.0.0-pre'
-```
+``
