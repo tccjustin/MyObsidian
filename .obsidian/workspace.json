@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTL 지원용 롬파일 만들기...md",
+                "file": "Hyper-V를 이용한 TPA 4 포트 테스트 방안...md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTL 지원용 롬파일 만들기.."
+              "title": "Hyper-V를 이용한 TPA 4 포트 테스트 방안.."
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "a5897cfe21b7b58f",
   "lastOpenFiles": [
-    "리눅스 부팅용 디스크 만들기.md",
+    "SDK_동작_시나리오_요약.md",
+    "Hyper-V를 이용한 TPA 4 포트 테스트 방안...md",
     "TTL 지원용 롬파일 만들기...md",
+    "리눅스 부팅용 디스크 만들기.md",
     "Temp Notes/무제.md",
     "Temp Notes/2025-11-14.md",
     "chatgpt/2025-11-14-리눅스_파일_복사.md",
@@ -182,7 +184,6 @@
     "chatgpt/확인되지 않음 377354.crdownload",
     "Pasted image 20251114110039.png",
     "Pasted image 20251114102832.png",
-    "SDK_동작_시나리오_요약.md",
     "chatgpt/2025-11-13-DSU_의미_설명.md",
     "chatgpt/확인되지 않음 904457.crdownload",
     "Temp Notes",
