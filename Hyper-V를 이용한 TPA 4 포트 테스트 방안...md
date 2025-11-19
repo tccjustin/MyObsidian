@@ -5,3 +5,4 @@
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
 ```
 
+find . -name "glibc-2.35*"
