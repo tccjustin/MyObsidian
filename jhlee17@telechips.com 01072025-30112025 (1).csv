@@ -1,0 +1,662 @@
+﻿Project Key,Issue Key,Issue Summary,Original Estimate,Original Estimate(h:m),Remaining Estimate,Remaining Estimate(h:m),∑Time Spent,∑Time Spent(h:m),Update Author Username,Worklog Author(Username),Worklog Author(Full Name),Created,Worklog Date(Worklog Author),TZ (Worklog Author),TZ (Update Author),Worklog Date(System),Time Logged,Time Logged(h:m),Work Description,Chip(worklog),Worklog_Label
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-3 09:00,2025-7-1 06:15,Korean Standard Time,Korean Standard Time,2025-7-1 06:15,32400,09:00,"기능 안전 요구 사항 수정 진행.
+ - SWAT의 수정 사항에 대해 리뷰 
+ - 수긍하기 어려운 항목에 대해 반박 근거 자료를 수집 등등..",,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:00,2025-11-11 16:00,Korean Standard Time,Korean Standard Time,2025-11-11 16:00,7200,02:00,기능 안전 관련 SWAT 미팅 참석,,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-11 10:10,2025-9-9 16:00,Korean Standard Time,Korean Standard Time,2025-9-9 16:00,7200,02:00,"기능 안전 정기 미팅 (with SWAT)
+",,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-30 09:41,2025-10-28 12:00,Korean Standard Time,Korean Standard Time,2025-10-28 12:00,18000,05:00,"1. SWAT 팀과의 미팅 진행
+
+2. 지난 회의 Action Item 진행
+  1. Safety Mechanism Hardware 내부 동작 로직 확인..
+     : EPP의 경우, Fault Injection Test에서 Fail이 발생시 FMU 쪽으로 인터럽트 발생하지 않음.
+     : 신이주 팀장의 말에 따르면, 다른 IP는 Fault Injection Test에서 Fail 발생하면 FMU 쪽에서 인터럽트가 뜬다고 함.
+
+  2. SWAT의 리뷰 사항 검토 및 수정 진행..",,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-29 07:42,2025-8-26 16:00,Korean Standard Time,Korean Standard Time,2025-8-26 16:00,7200,02:00,"기능 안전 정기 미팅 (with SWAT) 참석
+ - DFA 세미나",,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:16,2025-7-28 06:15,Korean Standard Time,Korean Standard Time,2025-7-28 06:15,39600,11:00,SWAT Feedback 항목에 대한 검토,,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:25,2025-11-18 16:00,Korean Standard Time,Korean Standard Time,2025-11-18 16:00,7200,02:00,"기능 안전 SWAT 미팅 참석
+ - 내년 초부터..  기능 안전 심사를 위한 AXON SDK 프로젝트를 시작해야 함..
+  : ASPICE, ISO26262 모두 개발 산출물 뿐만 아니라, 개발 프로세스에 맞게 개발되었냐가 중요하기 때문에, kick off 미팅 포함해서 모든 절차 생략 없이 진행이 필요해 보임.",,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:06,2025-7-30 06:15,Korean Standard Time,Korean Standard Time,2025-7-30 06:15,28800,08:00,SWAT팀의 수정 요구 사항 수정 진행..,,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 09:00,2025-7-15 06:00,Korean Standard Time,Korean Standard Time,2025-7-15 06:00,36000,10:00,SWAT의 Comment 검토 및 수정 진행,,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 11:11,2025-11-20 06:15,Korean Standard Time,Korean Standard Time,2025-11-20 06:15,10800,03:00,그동안 작성했던 safety 요구 사항.. SDK 요구 사항에 반영하는 작업 진행 중..,,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-4 10:27,2025-8-1 06:15,Korean Standard Time,Korean Standard Time,2025-8-1 06:15,28800,08:00,SWAT 팀의 Feedback 사항 대응.,,
+SD710XL,SD710XL-1466,Platform level의 static diagram 및 sequence diagram 작성.,0,00:00,0,00:00,2000700,555:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-2 17:44,2025-9-2 17:00,Korean Standard Time,Korean Standard Time,2025-9-2 17:00,7200,02:00,기능 안전 정기 미팅 (with SWAT) 참석,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 10:03,2025-11-6 15:00,Korean Standard Time,Korean Standard Time,2025-11-6 15:00,9000,02:30,"HKMC 1차 데모 미팅 참석
+ - AXON 단독 데모 시연",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-5 11:55,2025-9-4 16:00,Korean Standard Time,Korean Standard Time,2025-9-4 16:00,5400,01:30,GTM(Go To Market) 행사 참석,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-4 10:21,2025-9-4 07:15,Korean Standard Time,Korean Standard Time,2025-9-4 07:15,18000,05:00,"PDF to MD(마크다운) converting 툴 관련 리뷰 ... 
+ - docker 형태의 툴이 있음. 
+ - 동작시켜 본 결과, 많이 깨짐.
+ - 실제 응용까지는 시간을 많이 투입해서 커스터마이징을 해야 할 것으로 보임.
+",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-4 10:21,2025-9-4 06:15,Korean Standard Time,Korean Standard Time,2025-9-4 06:15,3600,01:00,그룹장님 요청으로 axon 단독 데모 ppt 작성,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:03,2025-11-11 15:00,Korean Standard Time,Korean Standard Time,2025-11-11 15:00,3600,01:00,SDK 릴리즈 관련 QA팀과 미팅 진행,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-11 10:04,2025-9-8 11:00,Korean Standard Time,Korean Standard Time,2025-9-8 11:00,3600,01:00,팀 칸반 회의 진행,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:06,2025-11-12 14:00,Korean Standard Time,Korean Standard Time,2025-11-12 14:00,7200,02:00,"TPA LPA configuration tool 관련 미팅 참석
+ - 현상태에 대한 파악 및 방향성 정리..
+",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-11 10:04,2025-9-9 10:00,Korean Standard Time,Korean Standard Time,2025-9-9 10:00,3600,01:00,다산 업무 미팅 진행,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-11 10:04,2025-9-10 11:00,Korean Standard Time,Korean Standard Time,2025-9-10 11:00,3600,01:00,그룹 칸반 미팅 진행,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-15 10:16,2025-9-11 11:00,Korean Standard Time,Korean Standard Time,2025-9-11 11:00,3600,01:00,"팀 칸반 회의 참석
+",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-15 10:24,2025-9-11 12:00,Korean Standard Time,Korean Standard Time,2025-9-11 12:00,18900,05:15,"버스 로드(64%)를 인가하고, 모비스 테스트 케이스 수행시 Buffer 발생하는 원인에 대한 분석 
+ - 강성학 매니저가 전달해 준 로그 분석..",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 14:57,2025-10-13 12:00,Korean Standard Time,Korean Standard Time,2025-10-13 12:00,7200,02:00,"Vector DE 관련 업무 진행
+ - 현재 Telechips 내부 진행 사항 파악 
+ - Vector에 vector의 개발 진행 상황 문의 및 텔레칩스의 axon 과제 상황에 대해 공유함.",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-15 10:24,2025-9-12 06:15,Korean Standard Time,Korean Standard Time,2025-9-12 06:15,25200,07:00,"버스 로드(64%)를 인가하고, 모비스 테스트 케이스 수행시 Buffer 발생하는 원인에 대한 분석 
+ - 강성학 매니저가 전달해 준 로그 분석..
+https://tcs.telechips.com/secure/attachment/229549/buffer-fulled%20FIFO.png
+https://tcs.telechips.com/secure/attachment/229548/no-buffer-fulled%20FIFO.png",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-15 10:20,2025-9-12 13:00,Korean Standard Time,Korean Standard Time,2025-9-12 13:00,3600,01:00,SLT ISP service App 관련 미팅 참석,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 15:01,2025-10-15 14:00,Korean Standard Time,Korean Standard Time,2025-10-15 14:00,3600,01:00,Bosch RFQ 대응 미팅 참석,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 15:05,2025-10-16 15:00,Korean Standard Time,Korean Standard Time,2025-10-16 15:00,10800,03:00,wsl에서 yocto build가 되도록 환경 set up,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 15:07,2025-10-17 06:15,Korean Standard Time,Korean Standard Time,2025-10-17 06:15,28800,08:00,"개발 환경 개선 작업
+ 1. cursor에서.. serial com 연결이 되도록, 관련 extension 설치.. 시도..
+   --> 기존에 있는 extension은 사용이 어려워 원하는 기능과 가장 유사한 extension의 source를 다운 받아 원하는 기능 추가하여, 설치함.",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-16 18:30,2025-9-16 14:00,Korean Standard Time,Korean Standard Time,2025-9-16 14:00,3600,01:00,"A/B 업데이트 관련 VNG 내부 미팅
+ - SNOR partition 정보 확인
+ - XIP를 위한 별도의 업데이트 롬이 필요한지에 대한 논의
+    : RWW 지원하는 SNOR만 지원한다면 굳이 검토 필요 없을 것으로 보임.",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-18 09:02,2025-9-18 06:15,Korean Standard Time,Korean Standard Time,2025-9-18 06:15,17100,04:45,"그룹장님 IP-PV 결과 wiki 수정 요청 사항 검토
+ - 그룹장님은 발표하시는 IP-PV 결과 취합 페이지에 결과가 자동으로 업데이트 되었으면 함.
+ - Query를 쓰면, 자동으로 업데이트 하도록 할 수 있음을 확인함.
+ - 하지만, 담당자들이 결과를 IP-PV verification result에 업데이트 하고, 세부 항목을 구분할 수 있도록 테이블을 수정해 줘야 가능함..
+ ",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-23 10:39,2025-10-21 16:15,Korean Standard Time,Korean Standard Time,2025-10-21 16:15,7200,02:00,SWAT 팀과의 기능 안전 미팅 참석,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-25 10:31,2025-9-24 16:15,Korean Standard Time,Korean Standard Time,2025-9-24 16:15,7200,02:00,"CAN bus에 load를 강제로 60% 이상 줄 경우, Test case에서 latency로 인한 fail이 발생하고 있음.. 이 부분에 대한 고민.. 
+  - 원인은 LPA 각 포트의 Tx Buffer가 FIFO 방식으로만 구동되기 때문임. 
+    : bosch CAN IP의 경우 (데이터시트 리뷰 결과)
+      - Tx buffer가 dedicated buffer 방식(Host에게 위임), FIFO 방식, Queue 방식(우선 순위가 높은 패킷부터 송신) 하도록 되어 있음. 
+   - 만약, 기회가 된다면, Queue 방식이나, Host에게 일부 위임하는 방식이라도 고민이 필요해 보임.
+  ",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-26 14:58,2025-9-26 13:00,Korean Standard Time,Korean Standard Time,2025-9-26 13:00,3600,01:00,"1. coverity 관련 미팅 참석
+
+2. coverity 관련 현황 자료 리뷰.. ",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-29 07:44,2025-8-28 10:00,Korean Standard Time,Korean Standard Time,2025-8-28 10:00,25200,07:00,"AXON CS 칩 설명회 참석
+",TCN100x,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-29 07:58,2025-8-28 06:15,Korean Standard Time,Korean Standard Time,2025-8-28 06:15,18000,05:00,"Confluence wiki와 Cursor를 좀 더 잘 활용할 수 있는 방안에 대한 검토 진행.. 
+ : 검토 이유 --> 요구 사항 명세서 작성 중인데, 좀 더 쉽게 할 수 있는 방법이 없는지에 대한 고민에서 출발.. 
+ : obsidian에서 만드는 md (마크다운) 파일을 confluence API로 올리도록 스크립트 작성 중..",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-1 10:25,2025-8-29 09:30,Korean Standard Time,Korean Standard Time,2025-8-29 09:30,5400,01:30,TCN1000 칩설명회 참석,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-1 10:26,2025-8-29 14:00,Korean Standard Time,Korean Standard Time,2025-8-29 14:00,3600,01:00,A/B 업데이트 관련 미팅 참석,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-1 10:27,2025-8-29 06:15,Korean Standard Time,Korean Standard Time,2025-8-29 06:15,18000,05:00,confluence wiki에 REST API를 통해 md 파일을 올리는 스크립트 작성 진행..,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 07:28,2025-10-1 10:00,Korean Standard Time,Korean Standard Time,2025-10-1 10:00,7200,02:00,모비스 데모 리허설,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 07:28,2025-10-1 06:15,Korean Standard Time,Korean Standard Time,2025-10-1 06:15,10800,03:00,"모비스 데모 준비
+ - 보드 이동 및 세팅 ",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 07:29,2025-10-1 15:00,Korean Standard Time,Korean Standard Time,2025-10-1 15:00,7200,02:00,모비스 데모 진행,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 07:29,2025-10-1 13:30,Korean Standard Time,Korean Standard Time,2025-10-1 13:30,3600,01:00,모비스 데모 2차 리허설,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 09:57,2025-11-4 17:00,Korean Standard Time,Korean Standard Time,2025-11-4 17:00,5400,01:30,"AXON CS2의 Safety 관련 논의 진행
+ - Safety Mechanism이 정상적인이 테스트하는 Fault Injection Test를 Post Silicon에서 할 수 없는 항목이 있는데 문제가 없는지 확인해야 하는 아이템이 있음.
+ - 이에 대해 신이주 팀장이 HEW에 문의 예정",,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 09:59,2025-11-4 16:00,Korean Standard Time,Korean Standard Time,2025-11-4 16:00,3600,01:00,기능 안전 관련 SWAT 정기 미팅 진행,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-2 17:47,2025-9-1 06:15,Korean Standard Time,Korean Standard Time,2025-9-1 06:15,17100,04:45,Obisidian에서 작성한 md 파일을 Confluence에 올리는 스크립트 개발,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 09:59,2025-11-5 14:00,Korean Standard Time,Korean Standard Time,2025-11-5 14:00,7200,02:00,LPA 비교 사항 논의 ,,
+SD710XL,SD710XL-1644,TCN1000 관련 경상업무,0,00:00,0,00:00,5823600,1617:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-4 10:15,2025-9-2 06:15,Korean Standard Time,Korean Standard Time,2025-9-2 06:15,10800,03:00,"confluence wiki를 내용을 다운 받아 마크 다운으로 변환시키는 스크립트 개발
+ -> 호환되지 않는 포맷이 많아 많이 쓰이지는 못할 수도 있음.",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-4 10:18,2025-9-3 06:15,Korean Standard Time,Korean Standard Time,2025-9-3 06:15,39600,11:00,"- 적용된 CCF 파일의 동작이 이상한 문제점 디버깅
+
+- AXON to AXON에서는 LIN 패킷을 전송 못하는 문제점 인지
+  - 진짜 불가능한 간단한 테스트 진행
+  - 다른 방안이 있는지 확인 중.. ( 8 채널이기 때문에 외부 보드 도입도 쉽지 않아 보임.) 
+  - VCP를 쓸 수 밖에 없을 것으로 보임.",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-8 10:18,2025-9-4 12:15,Korean Standard Time,Korean Standard Time,2025-9-4 12:15,16200,04:30,"-패킷 생성용 AXON Application 개발 진행 중..
+ - 보낸 시간과 받은 시간에 지연이 발생하는 것으로 보여 디버깅 중..
+ - Extended ID 관련 코드 수정 진행",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-8 10:19,2025-9-5 06:15,Korean Standard Time,Korean Standard Time,2025-9-5 06:15,28800,08:00,"받은 데이터가 잘 파싱이 되는지 확인..
+파싱 루틴, SDK 참조하여 구현",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-11 10:08,2025-9-8 12:00,Korean Standard Time,Korean Standard Time,2025-9-8 12:00,22500,06:15,"Ethernet to Ethernet 패킷 전송 관련해서 어떻게 패킷을 보내고 받을 수 있을지에 대한 고민 시작..
+ - 시스템 구조 그림 작성",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-11 10:06,2025-9-8 06:15,Korean Standard Time,Korean Standard Time,2025-9-8 06:15,17100,04:45,"패킷 생성용 AXON에서 보낸 CAN 패킷을 수신했을 때, 
+수신한 데이터와 CSV 에서 읽은 데이터와 비교하는 루틴에 대한 검증 작업 진행",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-11 10:09,2025-9-9 06:15,Korean Standard Time,Korean Standard Time,2025-9-9 06:15,32400,09:00,"다산 테스크 케이스를 테스트 앱에서 활용할 수 있는 방안 검토..
+ - pdf를 파이선 코드가 읽을 수 있는 형태로 변환할 수 있는 방법 고민 ..
+ - pdf to markdown으로 텍스트로 변환 가능할지 고민",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-11 10:12,2025-9-10 06:15,Korean Standard Time,Korean Standard Time,2025-9-10 06:15,39600,11:00,"다산 테스크 케이스를 테스트 앱에서 활용할 수 있는 방안 검토..
+ - pdf to markdown으로 텍스트로 변환을 해 봤지만, 테이블 깨져서 자동화로는 적당하지 않아 보임.
+ - 다양한 삽질 / 아이디어 고민..
+ - chatGPT에.. 다산 test case를 json으로 변환 요청.. 
+    : 얼추 써 먹을 수 있을 정도로. 변환됨.
+
+https://tcs.telechips.com/secure/attachment/229058/image-2025-09-11-11-10-16-986.png
+
+https://tcs.telechips.com/secure/attachment/229059/image-2025-09-11-11-20-47-840.png",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-15 10:22,2025-9-11 06:15,Korean Standard Time,Korean Standard Time,2025-9-11 06:15,17100,04:45,"변환된 다산 테스트 케이스 json에 대해 좀 더 세분화가 필요함.. 
+ - 이걸 손으로 수정해야 하나. 또 다른 스크립트를 짜야 하나.. 검토 중..",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 15:00,2025-10-13 06:15,Korean Standard Time,Korean Standard Time,2025-10-13 06:15,28800,08:00,개발 서버에서 개인 PC로 FWDN 되는 것에 대한 수정 진행..,,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 15:02,2025-10-14 06:15,Korean Standard Time,Korean Standard Time,2025-10-14 06:15,32400,09:00,개발 서버에서 개인 PC로 FWDN 실행 시키는 것에 대한 수정 진행.. ,,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 15:03,2025-10-15 06:15,Korean Standard Time,Korean Standard Time,2025-10-15 06:15,32400,09:00,개발 서버에서 개인 PC로 FWDN 실행 시키는 것에 대한 수정 진행,,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 15:04,2025-10-16 06:15,Korean Standard Time,Korean Standard Time,2025-10-16 06:15,28800,08:00,ES 보드에서 진행하던 것을 CS 보드로 migration 작업 진행..,,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-18 09:00,2025-9-17 13:00,Korean Standard Time,Korean Standard Time,2025-9-17 13:00,15300,04:15,"1. MAC address 지정 관련
+- python의 scapy를 이용하면, AXON의 각 포트별 MAC Address가 무엇이든간데.. Source Address를 다른 값으로 지정해서 보낼 수 있음.
+   :legacy phy가 인터넷이 잘 끊겨서 axon 보드에 scapy 설치에 약간의 시간이 소요됨. (다른 문제인가 이것 저것 확인하는 데 시간이 많이 소요됨)
+- 원래는 EPP의 각 EMAC 포트마다 MAC address가 필요할 것으로 예상했으나 필요 없음.
+
+2. PHY slave 설정 관련 이슈
+- 이전에 박광진 마스터한테 PHY 설정은 CM7에서 하는 것이라 가이드 받았으나, 확인해 본 결과, 모비스 PoC는 그게 맞지만, EVB는 linux가 여전히 TPA master이며, PHY 설정도 해야 함.
+
+3. TPA test case, TPA test python code, CAN python code 하나로 합쳐서 github에 업데이트..",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-17 12:58,2025-9-17 06:15,Korean Standard Time,Korean Standard Time,2025-9-17 06:15,24300,06:45,"1. 테스트 케이스 json을 하나씩 생성하면서, python test code를 PC에서 생성해 봄.. 
+
+2. 보드 상에서 테스트 케이스 (json)을  추가하면서, python test code를 추가하는 것이 효율적으로 보여, 보드 작을 위한 환경 설정.. 
+  - json 파일 및 python code 초기 버전 github에 업로드.
+
+3. Sender / Receiver의 Mac address가 필요해 보여 박광진 마스터와 논의
+  - Sender에서 가상의 mac address를 보내면, 이 mac address learning이 가능할 것으로 보임.",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-18 17:39,2025-9-18 12:00,Korean Standard Time,Korean Standard Time,2025-9-18 12:00,22500,06:15,"1. python Send & Receive 하는 동작 구현함.
+ - python scapy lib.의 sendp() 보내고, sniff()를 통해 받을 경우, 내가 보내는 패킷도 같이 받아짐.
+   : 나는 한개를 보냈는데, 2개를 받았다고 나옴.
+ - 해결 방안:
+    : linux tcpdump 방향 필터를 이용하면, inbound 전용으로 캡쳐가 가능함.
+
+2. Tester AXON의 ACL 규칙 추가
+
+3. 기본 루트 동작 확인함.
+  - Test control AXON 보드 emac 1 --> Test target AXON 보드 emac 1 --> Test target AXON 보드 emac 2 --> Test control  AXON 보드 emac 2  패킷이 가는 것은 확인함.
+
+4. linux 부팅 후 바로 실행시켜야 하는 Autoscript를 위한 레시피 추가 및 스크립트 작성",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-19 13:30,2025-9-19 06:15,Korean Standard Time,Korean Standard Time,2025-9-19 06:15,28800,08:00,"1. 잡다한 작업들.. 
+  : 작업 사항들에 노트에 정리
+
+2. TPA Command 실행 주체에 대한 고민
+  : PC로 할 것인가? Test control 보드가 할 것인가?
+  : Test control 보드가 tpa command를 보내야 시스템이 단순해 짐..
+  : Test Control 보드에서 Test target 보드간의 legacy gmac으로 보내는 것으로 시도.. --> 보드의 legacy gmac이 잘 끊김.. ㅡ.ㅡ ;
+  : 다른 방식을 찾아야 하는 검토.. 
+  : 팀장님 보드의 gmac은 정상으로 보여, 일단 legacy gmac으로 보내는 것으로 구현 진행.
+
+
+3. 다산의 최신 test case에 대한 json 변한 시도.. 
+  - ChatGPT가 변환한 json 파일을 본 결과 다수 항목이 누락이 되어 있음.
+  - 정상적으로 변환하기 위한 지침 고민.. 
+  - ChatGPT로 변환시키는 것은 시간이 너무 오래 걸리고, 원하는 대로 되지도 않음. 
+  - Cursor와 함께. 원하는 대로 변환 시키는 파이선 코드 작성. .진행..
+    자동화 테스트를 고려한 json 포맷 설계..
+",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-24 08:54,2025-9-22 06:15,Korean Standard Time,Korean Standard Time,2025-9-22 06:15,17100,04:45,"다산 테스트 케이스 json 화 시키는 작업 진행
+ - expected result를 추출해서.. 
+   : command의 실행 결과와 비교 하기 위함
+
+ - 코드 정리..",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-29 07:50,2025-8-25 06:15,Korean Standard Time,Korean Standard Time,2025-8-25 06:15,39600,11:00,"네트워크 패킷 생성 보드 개발 진행..
+ - 보드 개발 환경 구축
+   : git 설치 및 동작 확인 (vscode 및 cursor 연동해서 동작하는지 확인..)
+     - github에 test app 소스 올리고 연동 확인함.
+
+ - IPC 동작 확인 중..
+   : Tx 까지 정상 되는 것은 확인함..",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-29 07:51,2025-8-26 06:15,Korean Standard Time,Korean Standard Time,2025-8-26 06:15,36000,10:00,"IPC 드라이버 동작 확인  
+ - Rx 동작 확인함.
+   : 속도가 나오지 않아 확인해 보니, non block mode로 테스트 해야 함.
+  - Python으로 IPC Driver Control 하는 code 작성 진행",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-29 07:55,2025-8-27 06:15,Korean Standard Time,Korean Standard Time,2025-8-27 06:15,39600,11:00,"네트워크 패킷 생성 보드 개발
+ - CAN 패킷이 Cetrac 포맷으로 되어 있지 않던 문제 수정
+ - 어느 정도 빠른 속도까지 IPC로 CAN 패킷 전송 명령이 가능한지 확인. 
+   : 10ms 주기는 70번 이상 테스트시 buffer full 발생함.. 
+   : 20ms 주기는 1000번 이상도 문제가 없는 것으로 보임.
+  - 사용하지 않는 함수 삭제. 기능별로 파일 분리 등 진행..",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 08:54,2025-9-29 12:00,Korean Standard Time,Korean Standard Time,2025-9-29 12:00,22500,06:15,"1. Jenkins server에서 firmware를 다운 받는 python code 작성
+- 구민기 매니저에게 jenkins에.. snor.rom과 SD.fail 이외에 json 파일들. prebuilt 폴더를 올려달라고 요청함. : 두개의 파일로만으로는 rom file writing이 되지 않음.
+- 올려진 파일들을 전부 다운 받는 코드 작성 완료..
+
+2. HW 팀에 FT232H 보드를 AXON EVB의 Boot Mode swtich와 Reset button에 연결해 달라고 요청함.
+- HW에서 필요한 자료 취합하여 전닳함.",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 08:57,2025-9-30 06:15,Korean Standard Time,Korean Standard Time,2025-9-30 06:15,43200,12:00,"1. FT232H 보드가 정상적으로 AXON과 연결되었는지 테스트 작업
+  - 몇 번의 피드백으로 HW 수정 완료
+
+2. FT232H 보드를 통한 AXON의 boot mode / reset 제어 확인
+  - 파이선 코드 작성하여 확인 완료.
+
+3. FT232H 보드를 통해 boot mode 변경 -> reset -> fwdn -> normal boot mode로 변경 -> reset -> 정상 부팅 확인 작업 진행",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 08:59,2025-10-1 12:00,Korean Standard Time,Korean Standard Time,2025-10-1 12:00,14400,04:00,"1. FT232H 보드를 통해 boot mode 변경 -> reset -> fwdn -> normal boot mode로 변경 -> reset -> 정상 부팅 확인 작업 진행 완료
+ 
+
+2. 추후 진행 방향 검토
+  - 현재는 windows pc에서 구현되어 있으나, Linux PC에서 작업이 필요해 보임.
+   : 항상 PC가 켜져 있어야 하고, week 단위로 수행되어야 하며,. power down mode 상태에 있으면 안되기 때문에,  linux PC가 적당해 보임.
+   : 파이선으로 작성었기 때문에, 동작에는 큰 무리가 없음.",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-13 10:41,2025-10-2 06:15,Korean Standard Time,Korean Standard Time,2025-10-2 06:15,25200,07:00,젠킨스 서버에서 다운 받아 보드에 writing 하고 재부팅 하는 것까지 구현 완료,,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-4 10:13,2025-9-1 12:00,Korean Standard Time,Korean Standard Time,2025-9-1 12:00,22500,06:15,1. AP Core 에서 CSV 파일 읽어 들여서 CAN 데이터를 전송하도록 구현 시작..,,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-2 17:44,2025-9-2 12:30,Korean Standard Time,Korean Standard Time,2025-9-2 12:30,9000,02:30,"SV 테스트 flow 관련 ppt 작성
+https://mytelechips-my.sharepoint.com/:p:/g/personal/jhlee17_telechips_com/EVNu4ss34TBKgqd4eFkUWdIBCVur0e1SLwv6ERYsnP4ntg?e=BJG35j",,
+SD710XL,SD710XL-1649,AXON 자동화 테스트 구현,0,00:00,25200,07:00,711900,197:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-4 10:16,2025-9-2 09:15,Korean Standard Time,Korean Standard Time,2025-9-2 09:15,16200,04:30,"1. CSV 파일을 읽어서, CAN 패킷을 보내는 루틴 구현 완료..
+
+2. CCF 파일 변환 가이드 문서 작성 및 위키 업로드..
+ ",,
+SD710XL,SD710XL-1667,CS 칩 테스트시 LPA Buffer full 발생 원인 분석,0,00:00,0,00:00,82800,23:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-16 18:25,2025-9-15 06:15,Korean Standard Time,Korean Standard Time,2025-9-15 06:15,39600,11:00,"로그 분석 및 원인을 위한 brainstroming (with 강성학, 김성주, 팀장님.)
+ 
+로그 분석을 위한 Python 코드 작성.
+ - excel로 파일을 읽어서 분석하기 위한 수식 넣고 보고, 다른 파일 또 받아서, 또 excel로 읽어서 수식 넣고,. 비효율적으로 보여 파이선 코드로 파싱해서 저장하고, 그래프까지 그려내도록 작성함.
+
+",,
+SD710XL,SD710XL-1667,CS 칩 테스트시 LPA Buffer full 발생 원인 분석,0,00:00,0,00:00,82800,23:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-16 18:36,2025-9-16 06:15,Korean Standard Time,Korean Standard Time,2025-9-16 06:15,39600,11:00,"로그 분석 및 원인 분석을 위한 brainstorming.
+1. 결론
+: CANoe Application의 오동작으로 보임.
+2. 추정 이유
+2.1 재현 시퀀스
+step 1. 모비스 test case와 Load 인가를 위한 CAPL을 동시에 돌리면, CANoe App이 장시간( 50ms 이상) 데이터를 보내지 못하는 순간이 발생함.
+step 2. 이시간 동안 CANoe의 채널별 Buffer에는 패킷이 쌓이고, 갑자기 이 패킷이 순간적으로 AXON에 다 전달되고, 이 때 Buffer full이 발생함..
+ - AXON은 이러한 악의적인 조건에서는 buffer full을 피할 수 없음.
+2.2. 다른 테스트 환경에서는 발생하지 않음.
+ - 모비스 test case와 CAPL이 아닌 다른 방법으로 load를 인가하면 발생하지 않음.
+
+https://tcs.telechips.com/secure/attachment/229871/mobis_LOG_Buffer_full_tttt_ss_processed_graph.png
+
+https://tcs.telechips.com/secure/attachment/229872/bufferfull_processed_graph.png
+
+",,
+SD710XL,SD710XL-1670,CS 보드에 단독 데모 포팅,4500,01:15,0,00:00,194400,54:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-27 10:22,2025-10-24 06:15,Korean Standard Time,Korean Standard Time,2025-10-24 06:15,28800,08:00,"CS 보드 단독 데모 준비
+ - build 했던 이력이 날라 가서.. 헤매기 시작..
+ - 삽질과 박광진 마스터님 도움으로 준비 완료..",,
+SD710XL,SD710XL-1670,CS 보드에 단독 데모 포팅,4500,01:15,0,00:00,194400,54:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-24 08:55,2025-9-22 12:00,Korean Standard Time,Korean Standard Time,2025-9-22 12:00,22500,06:15,"1. CS 보드용 SDK 빌드 및 사전 준비 작업
+  - 이전 작업 했던 내용 리뷰.. 
+
+",,
+SD710XL,SD710XL-1670,CS 보드에 단독 데모 포팅,4500,01:15,0,00:00,194400,54:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-24 09:00,2025-9-23 06:15,Korean Standard Time,Korean Standard Time,2025-9-23 06:15,43200,12:00,"1. CS에 stand-alone demo 작업 사항 포팅
+  - 동작 확인 완료
+
+2. 코드 정리 작업
+  - 기존에 로컬로 갖고 있던 것을 git server에 올리기 위한 방법 검토
+    : poky recipe.., mcu 수정 사항 등을 올리기 위해서는 여러 개의 git에 올려야 함.
+    : 여러 개의 respository를 효율적으로 올리고 관리 할 수 있는 방법이 있을지 검토 --> vscode 활용 등의 방법이 있는지 등..
+     --> 일단  repo start <branch name> --all 등의 command로 일괄 branch 생성 .. / 일괄 push 진행 예정..
+    : 기타.. sdk project를 좀 더 편하게 쓸 수 있는 방법이 무엇이 있는지 고민..",,
+SD710XL,SD710XL-1670,CS 보드에 단독 데모 포팅,4500,01:15,0,00:00,194400,54:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-25 10:26,2025-9-24 06:15,Korean Standard Time,Korean Standard Time,2025-9-24 06:15,36000,10:00,"1. 소스 코드 정리..
+
+2. Yocto project 내에서..  mcu project 라든지.. linux project를 standalone으로 빌드할 수 있는 방법. ??에 대해 정리 중..
+  - 새로운 효율적인 방법에 대한 고민이 아닌, 내가 몰랐던 부분에 대한 정리임..
+  - vscode의 단축키로 build 부터 fwdn까지 실행시키고 있는데, 이 부분을 yocto에서는 어떻게 할지 고민. 
+  - 요구 사항들이 모이면 언젠가 vscode extension으로 작성도 필요함.",,
+SD710XL,SD710XL-1670,CS 보드에 단독 데모 포팅,4500,01:15,0,00:00,194400,54:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-26 09:40,2025-9-25 06:15,Korean Standard Time,Korean Standard Time,2025-9-25 06:15,36000,10:00,"그룹장님 요청 사항 적용
+ - 요구 사항
+    : AXON CS 보드 (아래 CAN, LIN 보드 제외)만으로 데모 진행 가능 하도록 수정 ( 영업 사원들은 AXON CS 보드 밖에 없을 것이므로..  )
+ - 수정 사항
+    : LPA routing table 수정이 필요함.
+      : 기존에는 데모 하는 사람이 헷가릴 것으로 고려하여 같은 baudrate (1Mbps)인 CAN port를 사용했었음 (ch2, ch7).
+      : 이를, ch1, ch2가 둘 다 1Mbps가 되도록 변경해야 함.
+    : LPA config tool 수정.. (GUI로 실행 가능하도록).
+ 
+
+",,
+SD710XL,SD710XL-1670,CS 보드에 단독 데모 포팅,4500,01:15,0,00:00,194400,54:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-26 14:42,2025-9-26 10:15,Korean Standard Time,Korean Standard Time,2025-9-26 10:15,10800,03:00,코드 정리..,,
+SD710XL,SD710XL-1670,CS 보드에 단독 데모 포팅,4500,01:15,0,00:00,194400,54:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 08:50,2025-9-29 06:15,Korean Standard Time,Korean Standard Time,2025-9-29 06:15,17100,04:45,코드 정리.. ,,
+SD710XL,SD710XL-1679,routing table arrary code 생성 관련 효율성 검토,0,00:00,0,00:00,18000,05:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-26 09:50,2025-9-25 16:15,Korean Standard Time,Korean Standard Time,2025-9-25 16:15,3600,01:00,"routing table array를 코드를 생성해서 빌드하고 있는데, 왜 이렇게 구현했는지 검토. 결론은 금요일. worklog에 작성할 ( 송봉용 매니저와 논의)
+  - tpa routing table의 사이즈는 유동적임.. 800kb가 될 수도 수십 kb가 될 수도 있음. 
+  - 따라서, 기존에는 코드가 아닌 바이너리 등으로 올린다면, SRAM에 가장 큰 사이즈를  reserve 해야 한다고 생각하고 있었음.
+  - 일단, 굳이 가장 큰 사이즈를 상정하고 reserve 할 필요는 없을 것으로 보임. ",,
+SD710XL,SD710XL-1679,routing table arrary code 생성 관련 효율성 검토,0,00:00,0,00:00,18000,05:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-26 10:15,2025-9-26 06:15,Korean Standard Time,Korean Standard Time,2025-9-26 06:15,14400,04:00,해당 티켓에 검토 결과 정리함.,,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 10:04,2025-11-6 06:15,Korean Standard Time,Korean Standard Time,2025-11-6 06:15,17100,04:45,"vscode extension 개발 진행
+ - build / configuration 관련 기능 개발 ",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 10:05,2025-11-7 06:15,Korean Standard Time,Korean Standard Time,2025-11-7 06:15,28800,08:00,"vscode extension 개발 진행
+ - build / configuration 관련 기능 개발 
+ - Yocto Build 기능 추가 완료됨.
+   : 그룹원에게 배포함..
+",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:06,2025-11-10 06:15,Korean Standard Time,Korean Standard Time,2025-11-10 06:15,34200,09:30,vscode extension 기능 개발,,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:07,2025-11-11 06:15,Korean Standard Time,Korean Standard Time,2025-11-11 06:15,32400,09:00,vscode extension 기능 개발,,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:07,2025-11-12 12:00,Korean Standard Time,Korean Standard Time,2025-11-12 12:00,11700,03:15,"vscode 기능 개발 : 아래 git log 참고..
+https://github.com/tccjustin/axon_extension/commits/main/",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:22,2025-11-17 06:15,Korean Standard Time,Korean Standard Time,2025-11-17 06:15,36000,10:00,"vscode extension 개발
+ - devtools를 이용한 개발 기능 추가",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:26,2025-11-18 10:15,Korean Standard Time,Korean Standard Time,2025-11-18 10:15,21600,06:00,"vscode extension 개발
+ - devtools를 이용한 개발 기능 추가 완료..
+ - fwdn 실행시. powershell 사용하도록 수정..
+ - exclude 환경.. 
+ - yocto로 mcu 빌드 시간이 오래 걸리는 이슈에 대해서.. 분석 및 개선 시도.. 
+    : 실패.., chatgpt도 gemini도 독립적인 freertos를 yocto에서 빌드하는 것은 과하다..  라고 함.. 
+     : mcu standalone은 1분 미만.., yocto는 지금처럼 서버가 외부로 나가고. 네트웍이 느려진 현재는 최초 빌드시 수십분이 걸리기도 함 ㅡㅡ;
+    : mcu는 standalone으로 build 하는 것이 답으로 보임..
+    : 차라리.. 빌드 툴에서.. 따로 지원하도록 하는 것이 나은 방향으로 보임.
+",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-23 10:38,2025-10-20 06:15,Korean Standard Time,Korean Standard Time,2025-10-20 06:15,39600,11:00,"vscode 확장 개발 시작.
+ - 개발 서버 이전으로 지난주에 개발한 모든 것이 동작 안함 ㅡ.ㅡ;;
+ - 확장을 어떻게 시작해야 하는지 기본 개념 파악..
+   : typescript로 개발해야 함. ",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-23 10:38,2025-10-21 06:15,Korean Standard Time,Korean Standard Time,2025-10-21 06:15,36000,10:00,"vscode 확장 개발.
+ - FWDN 기능 구현 부터 시작..",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-23 10:40,2025-10-22 06:15,Korean Standard Time,Korean Standard Time,2025-10-22 06:15,36000,10:00,"vscode 확장 개발..
+ : fwdn 기능은 개발 완료.
+",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-23 10:44,2025-10-23 06:15,Korean Standard Time,Korean Standard Time,2025-10-23 06:15,43200,12:00,"vscode 확장 개발
+ - 빌드 스크립트를 수행할 수 있도록 추가 구현 진행 중..
+   (내가 개발하면서 필요한 기능만 구현하고 멈출 예정..  vscode를 사용하는 사람들에게만 배포 후 feedback 받으면서.. 추가 구현 진행 예정)
+   ",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-30 10:24,2025-10-27 06:15,Korean Standard Time,Korean Standard Time,2025-10-27 06:15,39600,11:00,"vscode extension 개발
+ - mcu project create 하는 기능 개발..",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-30 10:25,2025-10-28 06:15,Korean Standard Time,Korean Standard Time,2025-10-28 06:15,25200,07:00,"vscode extension 개발
+ - mcu project create 하는 기능 개발 계속..
+",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-30 10:29,2025-10-29 06:15,Korean Standard Time,Korean Standard Time,2025-10-29 06:15,32400,09:00,"vscode extension 개발
+ 1. mcu project create 하는 기능 개발 (1차완료)
+    : 생성할 때, branch 생성, switch, 원격에도 같은 branch 생성. 하도록 함..
+    ; make 만 할 수 있도록 환경 설정 작업
+
+ 2. Refactoring
+    : AI vibe coding 특성상.. 중간 중간 정리를 안 하면 스파게티가 되어감... 
+
+ 3. .vscode 폴더에 대한 고민.
+    : symbolic link를 거는 방식으로 사용..(windows, linux 모두)    ",,
+SD710XL,SD710XL-1714,vscode extension 개발,0,00:00,0,00:00,451800,125:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 10:02,2025-11-5 12:00,Korean Standard Time,Korean Standard Time,2025-11-5 12:00,18000,05:00,"vscode extension 개발 진행
+ - build / configuration 관련 기능 개발 ",,
+SD710XL,SD710XL-1720,Cyber Security - TARA 작성 관련 활동,0,00:00,0,00:00,38700,10:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 14:59,2025-11-12 06:15,Korean Standard Time,Korean Standard Time,2025-11-12 06:15,17100,04:45,"TARA 작성을 위한 기초 자료 작성.
+ - axon 기능 관련 정리.",,
+SD710XL,SD710XL-1720,Cyber Security - TARA 작성 관련 활동,0,00:00,0,00:00,38700,10:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 14:58,2025-11-12 17:00,Korean Standard Time,Korean Standard Time,2025-11-12 17:00,3600,01:00,TARA 관련 미팅 참석,,
+SD710XL,SD710XL-1720,Cyber Security - TARA 작성 관련 활동,0,00:00,0,00:00,38700,10:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-30 09:49,2025-10-29 15:00,Korean Standard Time,Korean Standard Time,2025-10-29 15:00,10800,03:00,"AXON Cyber Security 관련 미팅 참석
+ - 최영조 TL, 최용희 PL, 전덕진M, 배종현M
+ - 궁극적인 목표는 TART 작성임.
+
+Cyber Security 관련 Wiki Page Review",,
+SD710XL,SD710XL-1720,Cyber Security - TARA 작성 관련 활동,0,00:00,0,00:00,38700,10:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:21,2025-11-19 17:00,Korean Standard Time,Korean Standard Time,2025-11-19 17:00,7200,02:00,"CS-Expert 미팅 참석
+https://mytelechips-my.sharepoint.com/:x:/g/personal/jh_bae_telechips_com/Eep8qVmgQiFLj_yxbOKcz_YBDqCVldPEYMo9acrWJsbddQ?e=ZpfEml",,
+SD710XL,SD710XL-1721,경쟁사 (Renesas)의 CAN Gateway IP에 대한 리뷰,0,00:00,0,00:00,31500,08:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-30 10:46,2025-10-30 06:15,Korean Standard Time,Korean Standard Time,2025-10-30 06:15,31500,08:45,"Renesas의 RH850/U2A gateway 리뷰 진행
+ 1. dedicated buffer 지원하고 있음.
+ 2. MPFO(Most Priority First Out) principle 동작하고 있음.
+ 3. buffer full이 발생할 수 있는 case를 언급하고 있으며 SW에 의해 처리해야 한다고 함.",,
+SD710XL,SD710XL-1741,LPA와 Renensas RS-CAN 상세 사양 비교작업,0,00:00,0,00:00,81000,22:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 09:53,2025-11-3 06:15,Korean Standard Time,Korean Standard Time,2025-11-3 06:15,39600,11:00,"RS-CAN 사양 리뷰 진행..  아래 문서 리뷰 진행.. 
+ - RH850 gateway procedure
+ - RH850 users manual
+ - RH850 CAN configuration
+ - RH850 CAN-FD Frame-Routing Autonomous Gateway",,
+SD710XL,SD710XL-1741,LPA와 Renensas RS-CAN 상세 사양 비교작업,0,00:00,0,00:00,81000,22:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 09:55,2025-11-4 06:15,Korean Standard Time,Korean Standard Time,2025-11-4 06:15,34200,09:30,"RS-CAN 사양 리뷰 진행..
+https://mytelechips-my.sharepoint.com/:x:/g/personal/ohmyksj_telechips_com/EVHjnu2iYdxKnClZmq98W4oB_tE2SgIgnem04bR3x7b5eQ?e=khHnYo",,
+SD710XL,SD710XL-1741,LPA와 Renensas RS-CAN 상세 사양 비교작업,0,00:00,0,00:00,81000,22:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 10:02,2025-11-5 08:15,Korean Standard Time,Korean Standard Time,2025-11-5 08:15,7200,02:00,비교 항목들에 대한 Survey 진행.,,
+SD710XL,SD710XL-1742,HKMC 1차 데모 - AXON 단독 데모,0,00:00,3600,01:00,21600,06:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 10:04,2025-11-6 11:00,Korean Standard Time,Korean Standard Time,2025-11-6 11:00,14400,04:00,"1. 3층 1번 회의실에 데모 환경 세업
+2. 사장님께.. 데모 리허설 진행
+3. 2차 데모 리허설 진행
+",,
+SD710XL,SD710XL-1742,HKMC 1차 데모 - AXON 단독 데모,0,00:00,3600,01:00,21600,06:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 10:01,2025-11-5 06:15,Korean Standard Time,Korean Standard Time,2025-11-5 06:15,7200,02:00,AXON 단독 데모 준비,,
+SD710XL,SD710XL-1754,"TTL(Tata Technology Limited,)의 CES 데모 지원..",0,00:00,3600,01:00,132300,36:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:00,2025-11-10 13:30,Korean Standard Time,Korean Standard Time,2025-11-10 13:30,5400,01:30,"TTL(Tata Technology Limited,) 정기 미팅 참석",,
+SD710XL,SD710XL-1754,"TTL(Tata Technology Limited,)의 CES 데모 지원..",0,00:00,3600,01:00,132300,36:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:02,2025-11-14 06:15,Korean Standard Time,Korean Standard Time,2025-11-14 06:15,25200,07:00,"TTL 지원을 위한 기본 환경 설정 작업
+ - 이채민 매니저와 공동으로 사용할 branch 생성.
+   : 개발 환경 공유.. ( vscode 환경 셋업 가이드 )
+ - 기본 환경 set up (DHCP on,  고정 mac, conntrack 레시피 추가)",,
+SD710XL,SD710XL-1754,"TTL(Tata Technology Limited,)의 CES 데모 지원..",0,00:00,3600,01:00,132300,36:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 15:01,2025-11-14 13:30,Korean Standard Time,Korean Standard Time,2025-11-14 13:30,3600,01:00,"TTL(Tata Technology Limited,) 정기 미팅 참석",,
+SD710XL,SD710XL-1754,"TTL(Tata Technology Limited,)의 CES 데모 지원..",0,00:00,3600,01:00,132300,36:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:10,2025-11-17 13:30,Korean Standard Time,Korean Standard Time,2025-11-17 13:30,3600,01:00,TTL과의 정기 미팅 참석,,
+SD710XL,SD710XL-1754,"TTL(Tata Technology Limited,)의 CES 데모 지원..",0,00:00,3600,01:00,132300,36:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:11,2025-11-18 06:15,Korean Standard Time,Korean Standard Time,2025-11-18 06:15,14400,04:00,"TTL에서 롬파일 제공
+ - TTL이 D5을 보느라, 시간이 없어 롬파일을 직접 만들어 줄 것을 요청함.",,
+SD710XL,SD710XL-1754,"TTL(Tata Technology Limited,)의 CES 데모 지원..",0,00:00,3600,01:00,132300,36:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:12,2025-11-19 06:15,Korean Standard Time,Korean Standard Time,2025-11-19 06:15,14400,04:00,"TTL에서 롬파일 제공 요청 지원
+ - Docker 레시피 추가 후 빌드 작업",,
+SD710XL,SD710XL-1754,"TTL(Tata Technology Limited,)의 CES 데모 지원..",0,00:00,3600,01:00,132300,36:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 11:11,2025-11-20 09:15,Korean Standard Time,Korean Standard Time,2025-11-20 09:15,7200,02:00,"롬 파일을 writing 했지만, 로그가 안 보인다는 report가 와서.. 대응 중..",,
+SD710XL,SD710XL-1759,SDK 빌드 환경 개선 작업,0,00:00,0,00:00,18000,05:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:21,2025-11-19 10:15,Korean Standard Time,Korean Standard Time,2025-11-19 10:15,18000,05:00,"TTL 요구에 의해 docker 레시피 추가 후 빌드 시간이 2시간 정도 소요됨.
+
+너무 오래 걸린다고 판단되어, Yocto task의 각 수행 시간을 프로파일 해 봄.
+
+1. 분석 결과
+do fetch에서 1시간 가까이 시간 소요됨
+do compile에서 1시간 가까이 시간 소요됨.
+
+do fetch의 경우, source-mirror에 없을 경우, 외부 서버에서 소스를 끌어오기 때문에 시간이 오래 걸림.
+
+2. 개선을 위한 action item
+- source-mirror 업데이트
+  : yocto project create시 ftp에서 받기 때문에 시간이 더 걸릴 수도 있음.
+- vscode extention에서 DL_DIR을 지정하도록 수정.
+  : 내부 로컬에 DL_DIR을 지정하도록 기능 추가..
+  : yocto project create시 시간이 걸리지 않음.
+  : 구민기 매니저 가이드와 다른 점 .
+     구민기 매니저 가이드 --> source-mirror 지정..
+     이번 가이드 --> build/tcn1000/downloads 폴더 지정: (소스가 조금 더 포함되어 있음.)
+
+
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-1 13:47,2025-7-1 13:30,Korean Standard Time,Korean Standard Time,2025-7-1 13:30,3600,01:00,모비스 PoC QA 관련 회의,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-3 07:07,2025-7-1 16:00,Korean Standard Time,Korean Standard Time,2025-7-1 16:00,7200,02:00,"기능 안전 관련 SWAT 정기 미팅
+ - SWAT과 요구 사항 명세서 리뷰 및 수정 진행
+ - 모비스 기능 안전 요구 사항 항목 관련 리뷰
+ - 정리한 routing table 무결성 관련 논의 진행
+
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-3 07:07,2025-7-2 14:00,Korean Standard Time,Korean Standard Time,2025-7-2 14:00,11700,03:15,"1. 모비스 PoC 회의 참석
+
+
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-3 07:08,2025-7-2 06:15,Korean Standard Time,Korean Standard Time,2025-7-2 06:15,9900,02:45,routing table 무결성 관련 발표를 위한 자료 리뷰..,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-3 09:19,2025-7-2 09:00,Korean Standard Time,Korean Standard Time,2025-7-2 09:00,18000,05:00,vibe coding tool 자료 검토,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-4 13:14,2025-7-3 06:15,Korean Standard Time,Korean Standard Time,2025-7-3 06:15,28800,08:00,"Vibe coding Tool 관련 자료 Survey.. 리뷰. 
+- 관련 자료 모음 : 
+https://wiki.telechips.com/display/RNDTM031/vibe+coding",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-4 13:16,2025-7-3 15:15,Korean Standard Time,Korean Standard Time,2025-7-3 15:15,10800,03:00,"LG 전자 문의 사항 검토
+ - LG가 말하는 문서들에 대한 각 문서에 대한 성격 조사
+ - 향후 배포 일정에 대한 정리
+ - 향후 어떤 식으로 배포해야 하는지에 대한 정리.",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-4 13:17,2025-7-4 06:15,Korean Standard Time,Korean Standard Time,2025-7-4 06:15,28800,08:00,"AXON Build를 위한 VSCode의 extension 작성
+  - GUI Tool로 Build가 가능할 것인지에 대한 검토 ..
+  - 다른 업체에서는 Build Tool을 어떻게 제공하는지 검토",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 09:04,2025-7-14 12:00,Korean Standard Time,Korean Standard Time,2025-7-14 12:00,7200,02:00,"Cursor 관련 그룹내 pilot crew 모집
+ - 개인별로 의향 문의 및 사용(pilot) 독려",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 09:06,2025-7-14 14:00,Korean Standard Time,Korean Standard Time,2025-7-14 14:00,15300,04:15,"SRAM latency 관련 하여 사장님께 필요성 납득 시킬만한 항목이 있는 검토
+ - EVB에서 할 수 있는 것이 무엇이 있는지 코드를 보면 검토.. 
+   --> 무엇을 해도 사장님 설득은 어렵지 않나 싶음.. 엔지니어 레벨에서의 노력은 큰 의미가 없음 깨달음.. ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 09:01,2025-7-14 06:15,Korean Standard Time,Korean Standard Time,2025-7-14 06:15,17100,04:45,Email 체크 및 휴가 기간 동안 놓친 업무 파악,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 09:00,2025-7-15 16:00,Korean Standard Time,Korean Standard Time,2025-7-15 16:00,7200,02:00,"SWAT과 기능 안전 정기 미팅
+ 1. LG 기능 안전 산출물 문의 관련 논의
+ 2. 모비스 기능 안전 요구 사항에 대한 논의
+ 3. LPA framework의 FMEA 논의",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 12:09,2025-7-16 12:00,Korean Standard Time,Korean Standard Time,2025-7-16 12:00,21600,06:00,"SDK 레벨의 테스트에 대한 검토 진행
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 09:04,2025-7-16 10:00,Korean Standard Time,Korean Standard Time,2025-7-16 10:00,3600,01:00,"팀 업무 분배 관련 미팅 참석
+ - 향후 톻합 테스트 관련 업무도 진행 예정.",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 09:07,2025-7-16 06:00,Korean Standard Time,Korean Standard Time,2025-7-16 06:00,14400,04:00,Cursor 관련 간단한 테스트 진행 .. ,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-21 09:55,2025-7-17 15:00,Korean Standard Time,Korean Standard Time,2025-7-17 15:00,10800,03:00,"A/B update 관련 검토
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-21 09:41,2025-7-17 08:00,Korean Standard Time,Korean Standard Time,2025-7-17 08:00,21600,06:00,"1. SDK 레벨에서의 테스트 관련 항목 정리 중..
+ - MCAL 및 CDD는 어떻게 해야 하는지에 대한 정리 진행.. 
+
+2. LPA Safety Mechanism 관련 정리
+ - LPA 관련 테스트 케이스 검토 중 발견.. 
+ - LPA safety mechanism이 fmu와 연결된 것은 sram ecc 뿐임.
+ - 나머지는 status interrupt와 status monitoring safety mechanism임.
+   : 모든 interrupt를 monitoring 하는 것은 시스템 성능에 영향을 줄 수 있어 인터럽트 개수 제한 필요함.. 자칫 buffer full interrupt를 못 볼 수 있음.
+   : SoC는 CRC 관련 error 만 보면 될 것이라고 함. (관련 interrupt는 60여개 중 4개임)
+   : LPA가 abnormal에 상태인지 확인은 주기적으로 CPU가 체크할 수 밖에 없을 것으로 보임.
+      - ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 11:46,2025-7-17 11:00,Korean Standard Time,Korean Standard Time,2025-7-17 11:00,3600,01:00,Continental 대응 및 SDK 일정 관련 회의 참석,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 14:16,2025-7-17 14:00,Korean Standard Time,Korean Standard Time,2025-7-17 14:00,3600,01:00,모비스 IPC 관련 회의 참석,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-21 09:46,2025-7-18 11:00,Korean Standard Time,Korean Standard Time,2025-7-18 11:00,3600,01:00,새로 지급 받은 노트북 세팅,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-18 13:21,2025-7-18 06:00,Korean Standard Time,Korean Standard Time,2025-7-18 06:00,18000,05:00,"Cursor C/C++ extension 관련 survey
+
+모든 사용자 Cursor 사용자 여러분~~
+ 
+아시는 분들은 아시겠지만, Cursor가 vscode 기반의 IDE이고,, 그간 ms market place에서 ms가 제공하는 각종 extension 들을 가져다 쓸 수 있었습니다.
+ 
+그런데, 아무래도 MS는 copilot을 갖고 있고, cursor는 ms code의 경쟁자다 보니, MS는 경쟁자가 자신의 market place에서 자신이 만든 extenstion을 쓰지 못하도록 vscode와 extension을 수정해 버렸습니다. ^^;
+ 
+그래서, cursor에서 c/c++ extension 사용이 불가능합니다. ^^;
+ 
+하지만, cursor에서도 이 부분에 대해서 자신들이 어떻게든 이런 extension과 비슷한 기능을 자신들의 market place에서 제공하겟다고 하네요.. 그래서 아래의 extension을  설치하면 
+ 
+ 
+아래와 같이
+ 
+ 
+vscode에서 쓰던 C/C++ 의 기능을 쓸 수 있습니다. 
+ 
+참고하세요~~ 
+ 
+^^; vscode가 open source이기는 하지만, market place는 MS 가 만든거라서.. 참.. 거시기 하네요..
+
+결론적으로 현재는 정상 동작하는 것이 없다. ㅡ.ㅡ;",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-18 13:20,2025-7-18 09:00,Korean Standard Time,Korean Standard Time,2025-7-18 09:00,3600,01:00,cont. bosch 대응 미팅 참석,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-18 13:20,2025-7-18 10:00,Korean Standard Time,Korean Standard Time,2025-7-18 10:00,3600,01:00,"오토 에버 밑이 참석
+ - 모비스 PoC 관련 논의",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-22 10:22,2025-7-21 18:00,Korean Standard Time,Korean Standard Time,2025-7-21 18:00,3600,01:00,Elektrobit와 미팅 진행.,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-22 10:21,2025-7-21 14:00,Korean Standard Time,Korean Standard Time,2025-7-21 14:00,3600,01:00,Elektrobit 미팅와의 사전 준비 미팅..,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-22 10:22,2025-7-21 15:00,Korean Standard Time,Korean Standard Time,2025-7-21 15:00,10800,03:00,"발표 자료 준비
+ - 소개 자료에 대한 script 작성.
+ - QA 항목 정리 및 script 작성.
+ - 전체적인 자료 리뷰..",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:42,2025-7-21 06:15,Korean Standard Time,Korean Standard Time,2025-7-21 06:15,7200,02:00,"이메일, tcs, teams 메시지 체크 등.. ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:49,2025-7-21 08:15,Korean Standard Time,Korean Standard Time,2025-7-21 08:15,14400,04:00,Cursor 평가 진행..,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-22 10:27,2025-7-22 06:15,Korean Standard Time,Korean Standard Time,2025-7-22 06:15,17100,04:45,"Elektrobit의 Zoneo GatewayCore에 대한 자료 정리..
+
+https://wiki.telechips.com/display/RNDTM031/EB+Zoneo+GatewayCore
+ ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:47,2025-7-22 11:00,Korean Standard Time,Korean Standard Time,2025-7-22 11:00,7200,02:00,"이메일, tcs, teams 메시지 체크 등.. ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:22,2025-7-22 13:00,Korean Standard Time,Korean Standard Time,2025-7-22 13:00,18900,05:15,"SWAT 기능 안전 정기 미팅 참석 및 요구 사항 명세서 리뷰 진행.. 등..
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:32,2025-7-23 06:15,Korean Standard Time,Korean Standard Time,2025-7-23 06:15,27000,07:30,"1. 회의록 작성 해주는 앱에 대한 검토 ..
+ - 영어 미팅 회의록 기록하고 요약해 주는 앱.. (클로버, otter.ai)
+ - 무료로 사용 가능한 것들 위주로.. 
+
+
+2. 노트 정리시 AI로 도움을 줄 수 있는 것이 무엇이 있는지 검토
+ - 무료로 사용 가능한 것 위주로..
+ - Obisidian에 적절한 open source plug-in을 붙여서 사용하는 형태들에 대해서 검토..  ( Smart Composer, Text Generator 등등..)
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:26,2025-7-23 13:30,Korean Standard Time,Korean Standard Time,2025-7-23 13:30,3600,01:00,"AXON 기능 안전 관련 일정 및 Risk 관련 미팅 참석
+ - SWAT팀과 논의",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:28,2025-7-23 14:30,Korean Standard Time,Korean Standard Time,2025-7-23 14:30,9000,02:30,"칸반 회의 발표 자료 정리..
+ https://wiki.telechips.com/pages/viewpage.action?pageId=619064467",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-28 10:06,2025-7-24 16:00,Korean Standard Time,Korean Standard Time,2025-7-24 16:00,7200,02:00,"Bosch 기술 미팅 참석
+ - AXO 기술 소개
+   - Functional Safety (SoC 측면 , SW 측면)  
+   - Security 
+ - Q&A 진행.",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-28 10:06,2025-7-24 11:00,Korean Standard Time,Korean Standard Time,2025-7-24 11:00,14400,04:00,영어 스크립트 수정 및 리허설 등.. ,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-28 10:08,2025-7-24 15:00,Korean Standard Time,Korean Standard Time,2025-7-24 15:00,3600,01:00,"LPA / TPA Tool 개발 리뷰 진행
+ - ISO26262의 Tool Configuration 관련 사항 공유..",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:50,2025-7-24 06:15,Korean Standard Time,Korean Standard Time,2025-7-24 06:15,13500,03:45,Bosch 발표 자료 리뷰 및 발표 스크립트 작성 진행,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:14,2025-7-29 09:00,Korean Standard Time,Korean Standard Time,2025-7-29 09:00,25200,07:00,"워크샵 아젠다에 대한 기본 구상..
+https://mytelechips-my.sharepoint.com/:p:/g/personal/jhlee17_telechips_com/EScSlQi0C9tLrUHfvPazRgoBSKNmfdErw4zGpfM_L50idQ?e=U2k9Qo",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:02,2025-7-29 17:00,Korean Standard Time,Korean Standard Time,2025-7-29 17:00,4500,01:15,기능 안전 관련 SWAT과의 회의 참석,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:03,2025-7-29 06:15,Korean Standard Time,Korean Standard Time,2025-7-29 06:15,9900,02:45,보쉬 미팅 wrap up을 위한 회의록 및 미팅 녹음 리뷰..,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:01,2025-7-29 16:00,Korean Standard Time,Korean Standard Time,2025-7-29 16:00,3600,01:00,"A/B 업데이트 관련 LAPT, BSPT 과의 회의 참석",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:02,2025-7-30 10:00,Korean Standard Time,Korean Standard Time,2025-7-30 10:00,3600,01:00,다산 미팅 참석,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:04,2025-7-30 16:00,Korean Standard Time,Korean Standard Time,2025-7-30 16:00,7200,02:00,"보쉬 미팅 회의 내용 리뷰 및 action item 리뷰.. 
+ - power point로 Action Item 공유하고.. VNG 항목 작성.",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-4 10:21,2025-7-31 06:15,Korean Standard Time,Korean Standard Time,2025-7-31 06:15,31500,08:45,Bosch Action Item 대응...,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-4 10:23,2025-7-31 10:00,Korean Standard Time,Korean Standard Time,2025-7-31 10:00,3600,01:00,VNG Workshop Agenda 정리..,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-7 09:05,2025-8-4 06:15,Korean Standard Time,Korean Standard Time,2025-8-4 06:15,39600,11:00,"워크샵 준비
+ - Cybersecurity 관련 회사 자료 검색 및 리뷰 진행.. 
+ - Safety 관련 그룹원에 전파할 자료 검색 및 리뷰 진행.. ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-7 09:06,2025-8-5 09:15,Korean Standard Time,Korean Standard Time,2025-8-5 09:15,21600,06:00,"워크샵 준비
+ - Cybersecurity 관련 회사 자료 검색 및 리뷰 진행.. 
+ - Safety 관련 그룹원에 전파할 자료 검색 및 리뷰 진행.. ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-7 08:58,2025-8-5 16:00,Korean Standard Time,Korean Standard Time,2025-8-5 16:00,7200,02:00,"SWAT 기능 안전 회의 참석
+ - FMEA 리뷰
+ - 기능 안전 요구 사항 리뷰",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-7 09:04,2025-8-5 06:15,Korean Standard Time,Korean Standard Time,2025-8-5 06:15,10800,03:00,"Compiler Option(O2대비 O3)별 애플리케이션 성능 향상에 대한 회사 내부 발표 자료 검토..
+ - BSPG가 개발하고 있는 Application
+   : Bootloader, RVC, T-Sound 등의 Compiler Option 별 성능.자료 정리 중..
+   : Bootloaer, RVC는 큰 효과 없음. 
+   : T-Sound는 5.38% 개선이 있지만 Bus error 발생.. , 큰 의미 없음..
+ - AXON의 응용에서도 성능 개선이 있는지 확인하자는 사장님 지시 사항..
+   : 큰 효과는 없을 수도.. ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-7 09:07,2025-8-6 06:15,Korean Standard Time,Korean Standard Time,2025-8-6 06:15,39600,11:00,"워크샵 준비
+ - Cybersecurity 관련 회사 자료 검색 및 리뷰 진행.. 
+ - Safety 관련 그룹원에 전파할 자료 검색 및 리뷰 진행.. ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-11 10:12,2025-8-7 06:15,Korean Standard Time,Korean Standard Time,2025-8-7 06:15,39600,11:00,workshop 발표 자료 작성,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-11 10:12,2025-8-8 06:15,Korean Standard Time,Korean Standard Time,2025-8-8 06:15,28800,08:00,workshop 발표 자료 작성,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-14 08:59,2025-8-11 06:15,Korean Standard Time,Korean Standard Time,2025-8-11 06:15,39600,11:00,"그룹 워크샵 준비
+ - 자료 보강 및 발표 스크립트 작성",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-14 08:59,2025-8-12 06:15,Korean Standard Time,Korean Standard Time,2025-8-12 06:15,43200,12:00,"그룹 워크샵 준비
+ - 자료 보강 및 발표 스크립트 작성",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-14 08:58,2025-8-13 10:00,Korean Standard Time,Korean Standard Time,2025-8-13 10:00,28800,08:00,그룹 워크샵 참석,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-14 09:00,2025-8-13 06:15,Korean Standard Time,Korean Standard Time,2025-8-13 06:15,10800,03:00,"그룹 워크샵 준비
+ - 자료 보강 및 발표 스크립트 작성",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-18 10:18,2025-8-14 06:15,Korean Standard Time,Korean Standard Time,2025-8-14 06:15,25200,07:00,"자동 테스트 관련 검토
+ - FWDN, Reset을 VCP 대신할 수 있는 보드에 대한 검토
+ - AXON 보드로 Suresoft 테스트 케이스를 대신할 수 있는지에 대한 검토..
+   : Suresoft 테스트 툴의 테스트 케이스간 최소 간격이 10ms이고 시퀀셜하기 때문에 생각보다구현 자체는 수월해 보임.
+      1. Linux에서 IPC 통해 CAN 데이터를 보내고 받을 수 있음..
+      2. Linux에서 Ethernet 데이터를 보내고 받을 수 있음..
+      --> PC와 SSH를 통해 control .
+      --> Axon linux에서 python으로 응용을 쉽게 만들 수 있을 것 같음.. 
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:09,2025-8-18 06:15,Korean Standard Time,Korean Standard Time,2025-8-18 06:15,31500,08:45,"SDK 자동화 테스트를 위한 EVB에 붙일 수 있는 보드에 대한 검토
+ - FDWN pin 및 Reset Control을 위한 sub 보드 검토.. 
+
+ - EVB에 Suresoft 대체해서 어떤 시스템을 붙이는 것이 가장 타당한지에 대한 검토 진행..
+    : PC와 EVB를 연결해서.. Port 개수가 일정 수를 넘어가면 어려워질 것으로 판단됨.
+    : EVB.. Linux 및 Freertos 양쪽으로 코딩으로 들어가므로 . 복잡해 질 수도 있을 것으로 보임.",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:12,2025-8-18 15:00,Korean Standard Time,Korean Standard Time,2025-8-18 15:00,8100,02:15,기능 안전 요구 사항 수정,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:08,2025-8-19 14:00,Korean Standard Time,Korean Standard Time,2025-8-19 14:00,7200,02:00,"자료 리뷰
+ 1. SRAM Latency 테스트 결과 리뷰
+ 2. Compile Option에 따른 성능 비교 (O2 vs O3)",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:12,2025-8-19 06:15,Korean Standard Time,Korean Standard Time,2025-8-19 06:15,28800,08:00,기능 안전 요구 사항 수정.. ,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:06,2025-8-19 16:00,Korean Standard Time,Korean Standard Time,2025-8-19 16:00,7200,02:00,"기능 안전 관련 SWAT 정기 미팅
+ - FMEA 리뷰 참석
+ - 기능 안전 요구 사항 명세서 수정 항목 리뷰.. ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:13,2025-8-20 15:00,Korean Standard Time,Korean Standard Time,2025-8-20 15:00,10800,03:00,"Wiki와 Cursor 연동 방안에 대한 검토
+ - MCP 설정법에 대한 위키 작성 및 공유",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:12,2025-8-20 09:00,Korean Standard Time,Korean Standard Time,2025-8-20 09:00,3600,01:00,FMEA 관련 진행 사항 파악 및 작성 항목 리뷰.. ,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:15,2025-8-20 06:15,Korean Standard Time,Korean Standard Time,2025-8-20 06:15,21600,06:00,"SDK 자동화 테스트를 위한 시스템 구성안 작성 중..
+ - https://wiki.telechips.com/pages/viewpage.action?pageId=627486035
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 10:14,2025-8-20 10:00,Korean Standard Time,Korean Standard Time,2025-8-20 10:00,3600,01:00,AXON CS 나오기 전에 할일에 대한 회의 참석,,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-25 09:53,2025-8-21 06:15,Korean Standard Time,Korean Standard Time,2025-8-21 06:15,39600,11:00,"axon 자동화 테스트 시스템 구축
+ - 테스트 보드 구매
+ - 시스템 구상 ",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-25 09:57,2025-8-22 10:30,Korean Standard Time,Korean Standard Time,2025-8-22 10:30,3600,01:00,"How Engineering Works 정기 미팅 참석
+ - Agenda
+    : LBIST, MBIST가 실패했을 때의 우리의 시나리오는??
+      - BSPG는 실패했때에 대한 옵션이 있다고 함.. 추후 미팅을 통해 확인 필요해 함.
+       
+
+",,
+SD710XL,SD710XL-20,TCN1000 관련 경상업무,0,00:00,0,00:00,76609800,21280:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-25 10:05,2025-8-22 06:15,Korean Standard Time,Korean Standard Time,2025-8-22 06:15,25200,07:00,"axon 자동화 테스트 시스템 구축
+ - ipc 검토. 진행.. 
+https://tcs.telechips.com/secure/attachment/225973/image-2025-08-25-11-12-23-645.png
+",,
+TMCT,TMCT-93,[Common] 타부서 업무협조 요청 및 팀 외부 회의(2025),0,00:00,0,00:00,606300,168:25,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-15 10:18,2025-9-11 14:00,Korean Standard Time,Korean Standard Time,2025-9-11 14:00,3600,01:00,A/B 업데이트 관련 시나리오 협의 미팅 참석,,
+TMCT,TMCT-94,[Common] 휴가&연차(2025),0,00:00,0,00:00,2923200,812:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-13 11:17,2025-10-10 09:30,Korean Standard Time,Korean Standard Time,2025-10-10 09:30,28800,08:00,대체 휴가,,
+TMCT,TMCT-94,[Common] 휴가&연차(2025),0,00:00,0,00:00,2923200,812:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-14 07:20,2025-7-7 09:30,Korean Standard Time,Korean Standard Time,2025-7-7 09:30,28800,08:00,여름 휴가,,
+TMCT,TMCT-94,[Common] 휴가&연차(2025),0,00:00,0,00:00,2923200,812:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-14 07:20,2025-7-8 09:30,Korean Standard Time,Korean Standard Time,2025-7-8 09:30,28800,08:00,여름 휴가,,
+TMCT,TMCT-94,[Common] 휴가&연차(2025),0,00:00,0,00:00,2923200,812:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 14:58,2025-11-13 08:00,Korean Standard Time,Korean Standard Time,2025-11-13 08:00,28800,08:00,개인 휴가,,
+TMCT,TMCT-94,[Common] 휴가&연차(2025),0,00:00,0,00:00,2923200,812:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-14 07:20,2025-7-9 09:30,Korean Standard Time,Korean Standard Time,2025-7-9 09:30,28800,08:00,여름 휴가,,
+TMCT,TMCT-94,[Common] 휴가&연차(2025),0,00:00,0,00:00,2923200,812:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-14 07:20,2025-7-10 09:30,Korean Standard Time,Korean Standard Time,2025-7-10 09:30,28800,08:00,여름 휴가,,
+TMCT,TMCT-94,[Common] 휴가&연차(2025),0,00:00,0,00:00,2923200,812:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-14 07:20,2025-7-11 09:30,Korean Standard Time,Korean Standard Time,2025-7-11 09:30,28800,08:00,여름 휴가,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-4 10:11,2025-9-3 11:00,Korean Standard Time,Korean Standard Time,2025-9-3 11:00,3600,01:00,그룹 칸반 미팅 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-3 07:07,2025-7-2 11:00,Korean Standard Time,Korean Standard Time,2025-7-2 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-4 13:12,2025-7-3 14:15,Korean Standard Time,Korean Standard Time,2025-7-3 14:15,3600,01:00,평가 면담,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 14:57,2025-11-10 11:00,Korean Standard Time,Korean Standard Time,2025-11-10 11:00,3600,01:00,팀 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-14 14:58,2025-11-12 11:00,Korean Standard Time,Korean Standard Time,2025-11-12 11:00,3600,01:00,그룹 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:09,2025-11-17 11:00,Korean Standard Time,Korean Standard Time,2025-11-17 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-16 18:19,2025-9-15 11:00,Korean Standard Time,Korean Standard Time,2025-9-15 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 08:58,2025-7-14 11:00,Korean Standard Time,Korean Standard Time,2025-7-14 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 10:10,2025-11-19 11:00,Korean Standard Time,Korean Standard Time,2025-11-19 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-17 12:52,2025-9-17 11:00,Korean Standard Time,Korean Standard Time,2025-9-17 11:00,3600,01:00,그룹 칸반 미팅 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-20 11:12,2025-11-20 11:00,Korean Standard Time,Korean Standard Time,2025-11-20 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 09:01,2025-7-16 11:00,Korean Standard Time,Korean Standard Time,2025-7-16 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-18 11:05,2025-9-18 11:00,Korean Standard Time,Korean Standard Time,2025-9-18 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-17 11:44,2025-7-17 10:00,Korean Standard Time,Korean Standard Time,2025-7-17 10:00,3600,01:00,"팀 칸반 회의 참석
+",,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-24 08:51,2025-9-22 11:00,Korean Standard Time,Korean Standard Time,2025-9-22 11:00,3600,01:00,팀 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:43,2025-7-21 11:00,Korean Standard Time,Korean Standard Time,2025-7-21 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-26 09:41,2025-9-25 11:00,Korean Standard Time,Korean Standard Time,2025-9-25 11:00,3600,01:00,팀 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:25,2025-7-23 17:00,Korean Standard Time,Korean Standard Time,2025-7-23 17:00,3600,01:00,그룹 칸반 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-24 09:55,2025-7-24 10:00,Korean Standard Time,Korean Standard Time,2025-7-24 10:00,3600,01:00,"팀 칸반 회의 참석
+https://tcs.telechips.com/secure/attachment/221901/image-2025-07-24-10-14-56-166.png",,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 07:04,2025-9-29 11:00,Korean Standard Time,Korean Standard Time,2025-9-29 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-28 10:54,2025-7-28 11:00,Korean Standard Time,Korean Standard Time,2025-7-28 11:00,3600,01:00,"팀 칸반 미팅 참석
+https://tcs.telechips.com/secure/attachment/222346/image-2025-07-28-10-53-07-290.png",,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-7-31 09:01,2025-7-30 11:00,Korean Standard Time,Korean Standard Time,2025-7-30 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-2 10:22,2025-10-2 09:30,Korean Standard Time,Korean Standard Time,2025-10-2 09:30,3600,01:00,월례회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-4 09:56,2025-7-31 11:00,Korean Standard Time,Korean Standard Time,2025-7-31 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-4 10:26,2025-7-31 15:00,Korean Standard Time,Korean Standard Time,2025-7-31 15:00,1800,00:30,CFR 활동,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-7 08:57,2025-8-4 11:00,Korean Standard Time,Korean Standard Time,2025-8-4 11:00,3600,01:00,팀 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-7 09:06,2025-8-5 15:00,Korean Standard Time,Korean Standard Time,2025-8-5 15:00,3600,01:00,워크샵 준비 관련 팀 미팅 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-7 08:58,2025-8-6 11:00,Korean Standard Time,Korean Standard Time,2025-8-6 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-11 10:11,2025-8-7 11:00,Korean Standard Time,Korean Standard Time,2025-8-7 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 14:51,2025-10-13 11:00,Korean Standard Time,Korean Standard Time,2025-10-13 11:00,3600,01:00,팀 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-14 08:58,2025-8-11 11:00,Korean Standard Time,Korean Standard Time,2025-8-11 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 15:00,2025-10-14 16:00,Korean Standard Time,Korean Standard Time,2025-10-14 16:00,7200,02:00,SDK 릴리즈 관련 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 14:51,2025-10-15 11:00,Korean Standard Time,Korean Standard Time,2025-10-15 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-18 10:13,2025-8-14 10:00,Korean Standard Time,Korean Standard Time,2025-8-14 10:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-17 14:59,2025-10-17 10:00,Korean Standard Time,Korean Standard Time,2025-10-17 10:00,3600,01:00,OKR 관련 미팅 진행,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-23 10:35,2025-10-20 11:00,Korean Standard Time,Korean Standard Time,2025-10-20 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 09:57,2025-8-18 11:00,Korean Standard Time,Korean Standard Time,2025-8-18 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-23 10:36,2025-10-22 11:00,Korean Standard Time,Korean Standard Time,2025-10-22 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-21 09:57,2025-8-20 11:00,Korean Standard Time,Korean Standard Time,2025-8-20 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-25 09:52,2025-8-21 11:00,Korean Standard Time,Korean Standard Time,2025-8-21 11:00,3600,01:00,팀 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-10-30 09:35,2025-10-27 11:00,Korean Standard Time,Korean Standard Time,2025-10-27 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-29 07:41,2025-8-25 11:00,Korean Standard Time,Korean Standard Time,2025-8-25 11:00,3600,01:00,팀 칸반 미팅 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-8-29 07:41,2025-8-27 11:00,Korean Standard Time,Korean Standard Time,2025-8-27 11:00,3600,01:00,그룹 칸반 미팅 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-1 10:26,2025-8-29 11:00,Korean Standard Time,Korean Standard Time,2025-8-29 11:00,3600,01:00,"팀장님 긴급 소집 회의 참석
+ - CS 이후의 일정 관련 논의",,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 09:54,2025-11-3 11:00,Korean Standard Time,Korean Standard Time,2025-11-3 11:00,3600,01:00,팀 회의 참석,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-9-1 11:37,2025-9-1 11:00,Korean Standard Time,Korean Standard Time,2025-9-1 11:00,3600,01:00,팀 칸반 회의 참석..,,
+TMCT,TMCT-97,"[Common] 팀 회의 참석 2025(칸반, 팀회의 등)",0,00:00,0,00:00,4151100,1153:05,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2025-11-10 09:55,2025-11-5 11:00,Korean Standard Time,Korean Standard Time,2025-11-5 11:00,3600,01:00,그룹 칸반 회의 참석,,
