@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worklog_Summary_01072025-30112025.md",
-                "mode": "preview",
+                "file": "Temp Notes/무제.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worklog_Summary_01072025-30112025"
+              "title": "무제"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "a5897cfe21b7b58f",
   "lastOpenFiles": [
+    "Worklog_Summary_01072025-30112025.md",
     "요구 사항 문서 작성 중..md",
     "SRS_4.1.1-4.1.5.md",
     "Pasted image 20251120121909.png",
@@ -209,7 +210,6 @@
     "chatgpt/2025-10-29-Conditional_npm_install.md",
     "chatgpt/2025-11-12-VSCode_폴더_숨기기.md",
     "chatgpt/2025-11-12-IPSec_테스트_설정.md",
-    "Obsidian-with-AI/환영합니다!.md",
-    "MyObsidian/환영합니다!.md"
+    "Obsidian-with-AI/환영합니다!.md"
   ]
 }
