@@ -73,6 +73,16 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "dc3f6bba5b33ae30",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -173,18 +183,19 @@
   },
   "active": "a5897cfe21b7b58f",
   "lastOpenFiles": [
-    "Worklog_Summary_01072025-30112025.md",
+    "리눅스 부팅용 디스크 만들기.md",
+    "wiki/요구사항 1.md",
     "요구 사항 문서 작성 중..md",
+    "google gemini cli 설치.md",
+    "Hyper-V를 이용한 TPA 4 포트 테스트 방안...md",
+    "Worklog_Summary_01072025-30112025.md",
     "SRS_4.1.1-4.1.5.md",
+    "Temp Notes/무제.md",
     "Pasted image 20251120121909.png",
     "chatgpt/2025-11-19-Yocto_빌드_시간_확인.md",
-    "google gemini cli 설치.md",
     "chatgpt/확인되지 않음 878812.crdownload",
     "TTL 지원용 롬파일 만들기...md",
-    "Hyper-V를 이용한 TPA 4 포트 테스트 방안...md",
     "SDK_동작_시나리오_요약.md",
-    "리눅스 부팅용 디스크 만들기.md",
-    "Temp Notes/무제.md",
     "Temp Notes/2025-11-14.md",
     "chatgpt/2025-11-14-리눅스_파일_복사.md",
     "chatgpt/2025-11-14-Vscode_cherry_pick_동작.md",
@@ -209,7 +220,6 @@
     "chatgpt/2025-10-29-Conditional_npm_install (1).md",
     "chatgpt/2025-10-29-Conditional_npm_install.md",
     "chatgpt/2025-11-12-VSCode_폴더_숨기기.md",
-    "chatgpt/2025-11-12-IPSec_테스트_설정.md",
-    "Obsidian-with-AI/환영합니다!.md"
+    "chatgpt/2025-11-12-IPSec_테스트_설정.md"
   ]
 }
