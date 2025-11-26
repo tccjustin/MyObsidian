@@ -117,3 +117,7 @@ PLATFORM -> BOOTTIME: add_rproc_boot_timestamp(MCU0)
             `2. devtool modify\n` +
 
             `3. bbappend 파일 수정`;
+
+ade399b59068506ab5cb2d958f02fc77f6e3ec51
+
+ade399b59068506ab5cb2d958f02fc77f6e3ec51
