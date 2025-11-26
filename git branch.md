@@ -107,3 +107,13 @@ PLATFORM -> BOOTTIME: add_rproc_boot_timestamp(MCU0)
 
 @enduml
 ```
+
+
+
+            `실행 단계:\n` +
+
+            `1. devtool create-workspace (workspace가 없을 때만)\n` +
+
+            `2. devtool modify\n` +
+
+            `3. bbappend 파일 수정`;
