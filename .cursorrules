@@ -1,0 +1,30 @@
+# Cursor AI 개발 지침
+
+## Jira JQL 쿼리 작성 가이드라인
+
+### 워크로그 검색 쿼리 작성 시 주의사항
+
+1. **이메일 주소는 반드시 따옴표로 감싸기**
+   - ❌ 잘못된 예: `worklogAuthor = jhlee17@telechips.com`
+   - ✅ 올바른 예: `worklogAuthor = "jhlee17@telechips.com"`
+
+2. **날짜 형식: YYYY-MM-DD (따옴표 없이)**
+   - ✅ 올바른 예: `worklogDate >= 2025-11-17 AND worklogDate <= 2025-11-28`
+   - 날짜는 따옴표 없이 숫자와 하이픈만 사용
+
+3. **완전한 워크로그 검색 쿼리 예시**
+   ```
+   worklogAuthor = "jhlee17@telechips.com" AND worklogDate >= 2025-11-17 AND worklogDate <= 2025-11-28
+   ```
+
+4. **주의사항**
+   - 이메일 주소는 반드시 큰따옴표(`"`)로 감싸야 함
+   - 날짜는 따옴표 없이 `YYYY-MM-DD` 형식 사용
+   - `AND`, `OR` 등의 논리 연산자는 대문자 사용 권장
+   - 날짜 비교 연산자: `>=`, `<=`, `>`, `<` 사용 가능
+
+5. **검색 후 처리**
+   - 검색 결과로 나온 이슈들의 전체 워크로그를 가져올 때는 `jira_get_worklog` 도구 사용
+   - 각 워크로그의 `started` 필드에서 날짜를 파싱하여 범위 내 항목만 필터링
+   - `author` 필드에서 사용자 이메일 확인하여 해당 사용자의 워크로그만 선택
+
