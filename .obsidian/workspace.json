@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SV 테스트.md",
+                "file": "리눅스에서.. compile_commands.json 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SV 테스트"
+              "title": "리눅스에서.. compile_commands.json 만들기"
             }
           }
         ],
@@ -198,8 +198,9 @@
   },
   "active": "f1bfe42b2c0aac05",
   "lastOpenFiles": [
-    "무제.md",
     "SV 테스트.md",
+    "리눅스에서.. compile_commands.json 만들기.md",
+    "무제.md",
     "Pasted image 20251203144145.png",
     "Pasted image 20251201134509.png",
     "tcs/OKR/워크로그_카테고리별_요약_2025-11-17_2025-11-28.md",
@@ -237,7 +238,6 @@
     "chatgpt/확인되지 않음 377354.crdownload",
     "Pasted image 20251114110039.png",
     "Pasted image 20251114102832.png",
-    "chatgpt/2025-11-13-DSU_의미_설명.md",
     "chatgpt/확인되지 않음 904457.crdownload"
   ]
 }
