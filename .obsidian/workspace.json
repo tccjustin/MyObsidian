@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "vscode bug 리스트."
             }
+          },
+          {
+            "id": "94ecc63f3f99f486",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251211135111.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251211135111"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +208,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f1bfe42b2c0aac05",
+  "active": "94ecc63f3f99f486",
   "lastOpenFiles": [
-    "리눅스에서.. compile_commands.json 만들기.md",
     "vscode bug 리스트..md",
+    "Pasted image 20251211135111.png",
+    "리눅스에서.. compile_commands.json 만들기.md",
     "SV 테스트.md",
     "무제.md",
     "Pasted image 20251203144145.png",
@@ -234,7 +247,6 @@
     "TTL 지원용 롬파일 만들기...md",
     "SDK_동작_시나리오_요약.md",
     "Temp Notes/2025-11-14.md",
-    "chatgpt/2025-11-14-리눅스_파일_복사.md",
     "chatgpt/확인되지 않음 377354.crdownload",
     "Pasted image 20251114110039.png",
     "Pasted image 20251114102832.png",
