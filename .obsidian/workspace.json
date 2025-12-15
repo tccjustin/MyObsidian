@@ -39,12 +39,14 @@
             "id": "94ecc63f3f99f486",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251211135111.png"
+                "file": "무제 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251211135111"
+              "icon": "lucide-file",
+              "title": "무제 1"
             }
           }
         ],
@@ -210,8 +212,9 @@
   },
   "active": "94ecc63f3f99f486",
   "lastOpenFiles": [
-    "vscode bug 리스트..md",
     "Pasted image 20251211135111.png",
+    "무제 1.md",
+    "vscode bug 리스트..md",
     "리눅스에서.. compile_commands.json 만들기.md",
     "SV 테스트.md",
     "무제.md",
@@ -246,7 +249,6 @@
     "chatgpt/확인되지 않음 878812.crdownload",
     "TTL 지원용 롬파일 만들기...md",
     "SDK_동작_시나리오_요약.md",
-    "Temp Notes/2025-11-14.md",
     "chatgpt/확인되지 않음 377354.crdownload",
     "Pasted image 20251114110039.png",
     "Pasted image 20251114102832.png",
