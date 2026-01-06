@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00-index-workflow",
+      "path": "ai/00-index-workflow.md"
+    },
+    {
+      "basename": "임시파일",
+      "path": "00-index/임시파일.md"
+    },
+    {
       "basename": "AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy",
       "path": "03-개발팁/AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy.md"
     },

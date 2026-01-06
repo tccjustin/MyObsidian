@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-개발팁/AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy.md",
+                "file": "ai/00-index-workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy"
+              "title": "00-index-workflow"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -184,8 +184,8 @@
   "active": "a5897cfe21b7b58f",
   "lastOpenFiles": [
     "00-index/임시파일.md",
-    "03-개발팁/AXON_TPA_ACL_PHY_MasterSlave_설정.md",
     "03-개발팁/AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy.md",
+    "03-개발팁/AXON_TPA_ACL_PHY_MasterSlave_설정.md",
     "02-개발노트/25-요구사항문서작성/SRS_4.1.1-4.1.5.md",
     "02-개발노트/25-요구사항문서작성/SDK_동작_시나리오_요약.md",
     "02-개발노트/25-요구사항문서작성",
