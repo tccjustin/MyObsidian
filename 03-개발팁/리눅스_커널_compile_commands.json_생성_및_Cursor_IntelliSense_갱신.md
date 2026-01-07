@@ -32,3 +32,4 @@ python3 /home/B030240/work1/svfinal2/build/tcn1000-sv/tmp/work-shared/tcn1000-sv
 - 이후 `POLLING_MODE=1` 같은 설정 변경 시, Cursor IntelliSense가 올바르게 인식되어 관련 코드가 활성화된 상태로 표시됨
 
 
+
