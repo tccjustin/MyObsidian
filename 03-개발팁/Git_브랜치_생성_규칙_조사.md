@@ -42,3 +42,4 @@
 2) “이 Vault 자체의 규칙을 새로 정하고 싶다” → 기본안(예: `feature/<JIRA>-<short-desc>`, `fix/<JIRA>-...`, `release/<ver>`, `wip/<name>-...`)을 제안하고 확정해 문서화
 
 
+
