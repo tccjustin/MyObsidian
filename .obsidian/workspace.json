@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-개발팁/AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy.md",
+                "file": "업무.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy"
+              "title": "업무"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -181,15 +181,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "05b1ba7056280c00",
+  "active": "a5897cfe21b7b58f",
   "lastOpenFiles": [
-    "03-개발팁/Git_커밋_메시지_prefix_분류규칙_bug_ref_fea_upg.md",
+    "ai/00-index-workflow.md",
+    "업무.md",
     "03-개발팁/커밋_메시지_작성_규칙_telechips_wiki_354585711.md",
+    "03-개발팁/Git_커밋_메시지_prefix_분류규칙_bug_ref_fea_upg.md",
     "03-개발팁/Git_브랜치_생성_규칙_조사.md",
-    "02-개발노트/25-요구사항문서작성/요구사항수정지침 .md",
     "00-index/임시파일.md",
-    "03-개발팁/AXON_TPA_ACL_PHY_MasterSlave_설정.md",
     "03-개발팁/AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy.md",
+    "03-개발팁/AXON_TPA_ACL_PHY_MasterSlave_설정.md",
     "02-개발노트/25-요구사항문서작성/SRS_4.1.1-4.1.5.md",
     "02-개발노트/25-요구사항문서작성/SDK_동작_시나리오_요약.md",
     "02-개발노트/25-요구사항문서작성",
@@ -218,7 +219,6 @@
     "03-개발노트/32-TTL Support/TTL_지원용_ROM_브랜치_동기화_절차.md",
     "03-개발노트/31-SV test/SV_A65AE_UDP_테스트_시나리오.md",
     "03-개발노트/SV_A65AE_UDP_테스트_시나리오.md",
-    "03-개발노트/TTL_지원용_ROM_브랜치_동기화_절차.md",
     "Pasted image 20251211135111.png",
     "Pasted image 20251203144145.png",
     "Pasted image 20251201134509.png",

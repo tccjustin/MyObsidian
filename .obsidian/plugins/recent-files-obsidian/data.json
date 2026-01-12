@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "업무",
+      "path": "업무.md"
+    },
+    {
       "basename": "AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy",
       "path": "03-개발팁/AXON_보드_초기설정_SSH_네트워크_Cursor_GitHub_Scapy.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "리눅스에서.. compile_commands.json 만들기",
       "path": "리눅스에서.. compile_commands.json 만들기.md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
     },
     {
       "basename": "요구사항 1",
