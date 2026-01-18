@@ -1,0 +1,118 @@
+﻿Project Key,Issue Key,Original Estimate,Original Estimate(h:m),Remaining Estimate,Remaining Estimate(h:m),∑Time Spent,∑Time Spent(h:m),Update Author Username,Worklog Author(Username),Worklog Author(Full Name),Created,Worklog Date(Worklog Author),TZ (Worklog Author),TZ (Update Author),Worklog Date(System),Time Logged,Time Logged(h:m),Work Description,Chip(worklog),Worklog_Label
+SD710XL,SD710XL-1644,0,00:00,0,00:00,9808500,2724:35,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-5 10:48,2026-1-5 08:15,Korean Standard Time,Korean Standard Time,2026-1-5 08:15,3600,01:00,"email, tcs, teams 검토",,
+SD710XL,SD710XL-1644,0,00:00,0,00:00,9808500,2724:35,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-5 10:50,2026-1-5 09:15,Korean Standard Time,Korean Standard Time,2026-1-5 09:15,6300,01:45,"개인 노트 정리 진행.
+ - 산발적으로 정리했던 note를 cursor에 정리를 위한 prompt를 작성하여 정리 진행 및 github에 commit 진행 ..",,
+SD710XL,SD710XL-1644,0,00:00,0,00:00,9808500,2724:35,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-7 07:38,2026-1-6 15:00,Korean Standard Time,Korean Standard Time,2026-1-6 15:00,3600,01:00,"SCP FW 관련 미팅 진행
+ - Step 1. SCP FW (OSS)로 진행.
+ - Step 2. Freertos로 migration ( Safertos 를 위함, Safety Ready 전략 )",,
+SD710XL,SD710XL-1714,0,00:00,0,00:00,792600,220:10,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-7 07:45,2026-1-6 14:15,Korean Standard Time,Korean Standard Time,2026-1-6 14:15,6000,01:40,"FWDN에서 specific File을 download시 error가 발생하는 부분에 대한 디버깅 진행..
+ - 브로드컴 5G 관련해서 kernel만 write 하려는 실패하여 이 부분에 대한 디버깅 시작함.
+ - 아직까지 실마리를 잡지 못함.",,
+SD710XL,SD710XL-1714,0,00:00,0,00:00,792600,220:10,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-7 07:53,2026-1-7 06:15,Korean Standard Time,Korean Standard Time,2026-1-7 06:15,7200,02:00,"FWDN에서 specific file download시 error 발생하는 부분에 대한 디버깅.
+ : specific file download시 bat파일에 여러 개이고 긴 문자열의 argument를 넣고 있는데, batch 파일과 cmd는 이것을 파싱하는데 불안정한 것으로 보임.
+ : ps1 (파워쉘 스크립트)를 사용하는 방식으로 바꿀 경우, 이런 불안정한 현상이 사라짐.. 모두 ps1을 사용하도록 변경하여 해결함.",,
+SD710XL,SD710XL-1714,0,00:00,0,00:00,792600,220:10,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-9 14:46,2026-1-9 10:15,Korean Standard Time,Korean Standard Time,2026-1-9 10:15,22500,06:15,"1. extension에서 build 관련 command가 추가될때 마다 extension을 수정해야 하는 부담이 있었음.
+  - linux-telechips recipe와 같은 단일 레시피만 빌드하고 싶은데. 이런 부분을 extension을 새로 배포 해야 하는가? 와 같은 고민.. 
+
+2. 이를 해결할 수 있는 방안이 있을지 고민
+  - json 파일로 명령어 집합을 메뉴에 등록하고 이를 수행하는 방법으로 구현 진행 중.. 
+  - 구현되면, 사용자가 json 파일만 수정하면, 빌드 명령어 셋을 구성할 수 있고, UI 메뉴도 이에 따라 변경됨.",,
+SD710XL,SD710XL-1714,0,00:00,0,00:00,792600,220:10,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-14 17:46,2026-1-12 06:15,Korean Standard Time,Korean Standard Time,2026-1-12 06:15,32400,09:00,"vscode extension 작업 진행
+ - autolinux build / mcu build도 json에 script를 기록해 두고 이를 실행하는 방식으로 수정 진행함.",,
+SD710XL,SD710XL-1720,0,00:00,0,00:00,71100,19:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-9 14:36,2026-1-8 17:00,Korean Standard Time,Korean Standard Time,2026-1-8 17:00,3600,01:00,회의 참석,,
+SD710XL,SD710XL-1720,0,00:00,0,00:00,71100,19:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-14 17:47,2026-1-13 14:00,Korean Standard Time,Korean Standard Time,2026-1-13 14:00,3600,01:00,식별된 asset 기반으로 Damage 작성 진행 (배종현 매니저 부재로 대신 진행함) ,,
+SD710XL,SD710XL-1720,0,00:00,0,00:00,71100,19:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-14 17:41,2026-1-14 17:00,Korean Standard Time,Korean Standard Time,2026-1-14 17:00,3600,01:00,작성된 Damage Scenario에 대한 리뷰 진행,,
+SD710XL,SD710XL-1759,6300,01:45,2700,00:45,43200,12:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-9 14:43,2026-1-9 09:15,Korean Standard Time,Korean Standard Time,2026-1-9 09:15,3600,01:00,"cursor - ssh - board 
+형태로 연결해서 사용하고 있는데, code xxx.sh 이런식으로 편집할 수 없었던 이슈 추척 및 해결함..
+",,
+SD710XL,SD710XL-1763,0,00:00,0,00:00,182700,50:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-6 13:27,2026-1-6 06:15,Korean Standard Time,Korean Standard Time,2026-1-6 06:15,10800,03:00,"1. CES 출장자에게 이상하게 동작되는 부분이 있다는 레포트를 받음
+2. 해당 현상 재현되지 않음.
+3. 의심이 가는 코드 수정하여, 프로그램 다시 전달함.
+4. 박승찬 매니저가 테스트 한 결과, 문제 수정되었다고 전달 받음",,
+SD710XL,SD710XL-1792,159300,44:15,48600,13:30,329400,91:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-7 07:42,2026-1-5 12:00,Korean Standard Time,Korean Standard Time,2026-1-5 12:00,22500,06:15,"4개의 이더넷 포트를 사용한 데이터 송수신이 가능한 환경 구축
+ - python code 작성.
+ - EVB 환경 구성",,
+SD710XL,SD710XL-1792,159300,44:15,48600,13:30,329400,91:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-7 07:44,2026-1-6 09:15,Korean Standard Time,Korean Standard Time,2026-1-6 09:15,18000,05:00,"broadcom 보드 5G 사용을 위한 작업 진행 
+ : 5G port가 link up되는 것은 확인함.
+ : build 환경에서 시간을 소요함.
+",,
+SD710XL,SD710XL-1792,159300,44:15,48600,13:30,329400,91:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-8 07:08,2026-1-7 08:15,Korean Standard Time,Korean Standard Time,2026-1-7 08:15,23400,06:30,"1. sv test case 작성 완료
+  - 아래와 같은 순서로 Test가 진행됨
+  - EMAC1 test --> EMAC2 Test --> EMAC3 Test --> EMAC4 Test --> CAN2ETH/ETH2CAN.
+
+2. 후속 작업
+  - git commit 완료
+  - guide 작성 완료
+
+3. 이슈 사항
+  - broadcom 5G board가 master로는 동작을 잘 하는데, slave로는 동작을 안하는 것으로 보여, 김기운M이 검토 예정. 
+  - 테스트는 master -> broadcom 5G board, slave -> marvell 5G board로 진행함.",,
+SD710XL,SD710XL-1792,159300,44:15,48600,13:30,329400,91:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-8 11:08,2026-1-8 07:15,Korean Standard Time,Korean Standard Time,2026-1-8 07:15,13500,03:45,"marvell 보드던, broadcom 보드던, link down 이후에는 link up이 안되고 있음.
+
+이대로는 EMAC4에 대한 SV test는 어려워 보임.
+
+- sv kernel의 message가 많이 생략되고 출력하도록 되어 있어, 이 부분을 어디를 수정해야 하는지 검토..
+- 보드 조합 별 테스트 진행..",,
+SD710XL,SD710XL-1792,159300,44:15,48600,13:30,329400,91:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-9 14:41,2026-1-8 12:00,Korean Standard Time,Korean Standard Time,2026-1-8 12:00,18900,05:15,"master board와 slave board의 5G port가 케이블로 연결된 상태에서 보드를 reset이 linkup이 되지 않는 이슈 디버깅.
+  - 케이블이 연결된 상태로 보드 reset시, link up이 되는 것을 인식할 수 없는 로직이어서 이를 수정함.",,
+SD710XL,SD710XL-1792,159300,44:15,48600,13:30,329400,91:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-9 14:42,2026-1-9 06:15,Korean Standard Time,Korean Standard Time,2026-1-9 06:15,10800,03:00,테스트 및 git commit / pull request / merge 진행..,,
+SD710XL,SD710XL-1792,159300,44:15,48600,13:30,329400,91:30,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-12 14:39,2026-1-12 09:00,Korean Standard Time,Korean Standard Time,2026-1-12 09:00,3600,01:00,meta-sv에서 bitbake -c clean 하고 다음 빌드 시 error 발생하는 것을 수정,,
+SD710XL,SD710XL-1821,0,00:00,0,00:00,52800,14:40,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-12 14:37,2026-1-12 08:00,Korean Standard Time,Korean Standard Time,2026-1-12 08:00,3600,01:00,"vscode와 autolinux 정합 중 발생하는 에러에 대한 디버깅 및 수정.
+아래는 git log
+- Add 'axon' category validation in SDK configuration check
+- Add 'axon' to SDK list help message
+- Clean up tcnxxxx_linux_axon manifest list (keep only dev manifest)",,
+SD710XL,SD710XL-1828,0,00:00,3600,01:00,90000,25:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-7 07:37,2026-1-6 16:00,Korean Standard Time,Korean Standard Time,2026-1-6 16:00,7200,02:00,"1. 작성된 safety 요구 사항에 대한 리뷰
+2. safety 요구 사항 리뷰를 효율적으로 할 수 있는 방안에 대한 논의
+  : AI 활용
+  : vscode의 google gemini를 활용하여 요구 사항을 리뷰할 수 있는 방안에 대한 팀 전수해 줌..
+  : 배지혜M, 이현상M이 vscode와 git을 설치할 수 있도록 가이드함.
+  : 요구 사항을 마크다운 형식으로 작성하고, 이를 git에 올려서 같이 작성하기로함.
+  : github를 만들고 최초 파일을 올려서, 이를 SWAT에 공유함.",,
+SD710XL,SD710XL-1828,0,00:00,3600,01:00,90000,25:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-8 11:06,2026-1-8 06:15,Korean Standard Time,Korean Standard Time,2026-1-8 06:15,3600,01:00,"network converter의 ASIL 등급에 관련 논의
+ - SWAT에서는 해당 모듈이 ASIL-D가 되어야 하는 것 아니냐는 문의
+ - network converter는 sample 로써 제공되고, 고객사 마다 다른 시나리오로 구현된다고 설명함.
+ - 그렇다하더라도, 문서 어딘가에는 이 부분을 명시해야 하는 것 아니냐는 의견..",,
+SD710XL,SD710XL-1828,0,00:00,3600,01:00,90000,25:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-14 17:45,2026-1-13 16:00,Korean Standard Time,Korean Standard Time,2026-1-13 16:00,7200,02:00,"SWAT팀과 미팅 진행
+ - AI를 활용해서 작성하는 방법 공유, QnA 진행",,
+SD710XL,SD710XL-1828,0,00:00,3600,01:00,90000,25:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-14 17:44,2026-1-13 06:15,Korean Standard Time,Korean Standard Time,2026-1-13 06:15,36000,10:00,"요구 사항 명세서 수정 작업 진행.
+
+AI 기반으로 작성된 요구 사항 명세서에 대한 검토 작업..
+아래와 같이 진행함.
+ - 수정지침파일 작성
+   : 회의 때, Feedback 받은 사항들, AI가 리뷰 후 요청한 정보를 기반으로 지침을 만듦
+ - 지침을 기반으로 요구 사항의 main scenario, input, output, alternative scenario 등을 작성함.
+",,
+SD710XL,SD710XL-1828,0,00:00,3600,01:00,90000,25:00,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-14 17:40,2026-1-14 06:15,Korean Standard Time,Korean Standard Time,2026-1-14 06:15,36000,10:00,"과제 계획서, 요구 사항 명세서, 구조 설계서, 등에 표기 되어 있는 모듈 네임 미스 매치가 많아 전반적으로 수정하는 작업 진행",,
+TMCT,TMCT-111,0,00:00,0,00:00,261900,72:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-8 07:03,2026-1-7 15:00,Korean Standard Time,Korean Standard Time,2026-1-7 15:00,7200,02:00,"SDK 관련 그룹 미팅 참석
+ - ASPICE 산출물 관련 논의
+ - 기능 안전 산출물 관련 논의
+ - Cybersecurity 산출물 관련 논의",,
+TMCT,TMCT-111,0,00:00,0,00:00,261900,72:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-8 07:01,2026-1-7 11:00,Korean Standard Time,Korean Standard Time,2026-1-7 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-111,0,00:00,0,00:00,261900,72:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-9 14:37,2026-1-8 18:00,Korean Standard Time,Korean Standard Time,2026-1-8 18:00,1800,00:30,"SDK 1.1, 1.2 배포 관련 팀내 미팅 참석",,
+TMCT,TMCT-111,0,00:00,0,00:00,261900,72:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-8 11:55,2026-1-8 11:00,Korean Standard Time,Korean Standard Time,2026-1-8 11:00,3600,01:00,팀 회의 참석,,
+TMCT,TMCT-111,0,00:00,0,00:00,261900,72:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-9 14:37,2026-1-9 10:30,Korean Standard Time,Korean Standard Time,2026-1-9 10:30,1800,00:30,"SDK 1.1, 1.2 배포 관련 그룹 미팅 참석",,
+TMCT,TMCT-111,0,00:00,0,00:00,261900,72:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-12 14:38,2026-1-12 11:00,Korean Standard Time,Korean Standard Time,2026-1-12 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMCT,TMCT-111,0,00:00,0,00:00,261900,72:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-14 17:39,2026-1-14 11:00,Korean Standard Time,Korean Standard Time,2026-1-14 11:00,3600,01:00,그룹 칸반 회의 참석,,
+TMCT,TMCT-111,0,00:00,0,00:00,261900,72:45,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-15 11:11,2026-1-15 11:00,Korean Standard Time,Korean Standard Time,2026-1-15 11:00,3600,01:00,"팀 회의 참석
+1. vscode extension
+ - vscode task와 비슷하게 json에 명령어를 등록하고 실행할 수 있도록 변경.
+ - ms market에만 등록되어 있는 것을 open vsix 사이트에도 등록함..
+https://open-vsx.org/extension/JustinLee-tcc/axon-dev
+2. 소프트웨어 모듈 매칭 작업.
+ - 설계서, 요구 사항 명세서, 계획서, FMEA, DFA의 모듈이 다른 부분이 있음. 이에 대한 매칭 작업
+ - 작성된 설계서를 모두 리뷰하고, 매칭 작업 진행 중 .. 
+
+3. 요구사항 명세서 개선 작업..
+ - AI를 활용한 수정 작업 진행 중.. 문구, 논리적으로 문제가 없는지.. 등등.
+ - SWAT에 .. 제안한 방식에 대한 설명 및 작업 방법에 대한 가이드 진행.
+
+4. cyber security.
+ - Damage Scenario 생성. 및 리뷰 작업. 
+ - 배종현 매니저가 출산 휴가로..부재로 인해.. 왜 나한테.. 
+https://mytelechips-my.sharepoint.com/:x:/g/personal/harper_jeon_telechips_com/IQBCGeHWoBqOSa06j-P3KgLhAZi0EJGdfGFWgD-ShN4GgIs?e=ICgcRR",,
+TMCT,TMCT-97,0,00:00,3600,01:00,4729800,1313:50,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-5 11:21,2026-1-5 11:00,Korean Standard Time,Korean Standard Time,2026-1-5 11:00,3600,01:00,팀 칸반 회의 참석,,
+TMSQ1,TMSQ1-633,0,00:00,0,00:00,54600,15:10,jhlee17@telechips.com,jhlee17@telechips.com,이재호 (Justin Lee),2026-1-5 10:48,2026-1-5 06:15,Korean Standard Time,Korean Standard Time,2026-1-5 06:15,7200,02:00,"2.5G, 5G 테스트 방법 관련 검토.
+ - sv test에서 사용할 수 있는 sub board는 marvell, broadcom 중 하나를 선택해야 함.
+ - marvell board는 수량이 많지 않은 것으로 보임.
+",,
